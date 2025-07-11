@@ -1,19 +1,10 @@
 import requests
 import json
-from github import Github
 import os
 
-# GitHub ve VAVOO ayarları
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-REPO_NAME = "GeceKod/vavoo"  # Sabit repo adı
-BRANCH_NAME = os.getenv("GITHUB_REF_NAME", "main")  # Varsayılan dal: main
+# VAVOO ayarları
 JSON_FILE_PATH_TV = "vavoo_tv_channels.json"
-JSON_FILE_PATH_MOVIES = "vavoo_movies.json"
-
-# VAVOO.TO API ayarları
 VAVOO_LIVE_URL = "https://www2.vavoo.to/live2/index?output=json"
-VAVOO_MOVIE_URL = "https://vavoo.to/ccapi/"
-TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 
 # VAVOO.TO için gerekli başlıklar
 VAVOO_HEADERS = {
@@ -45,92 +36,20 @@ def fetch_tv_channels():
         print(f"Hata (TV Kanalları - LIVE_URL): {e}")
         return []
 
-# Film bilgilerini çekme (geçici olarak devre dışı)
-def fetch_movies():
+# JSON dosyasını yerel olarak kaydetme
+def save_to_file(data, file_path):
     try:
-        response = requests.get(VAVOO_MOVIE_URL, headers=VAVOO_HEADERS)
-        print(f"Yanıt Durumu (MOVIE_URL): {response.status_code}")
-        print(f"Yanıt İçeriği (MOVIE_URL): {response.text[:1000]}")
-        response.raise_for_status()
-        data = response.json()
-        
-        movies = []
-        for item in data.get("items", []):
-            movie = {
-                "title": item.get("title", ""),
-                "id": item.get("id", ""),
-                "year": item.get("year", ""),
-                "poster": item.get("poster", "")
-            }
-            if TMDB_API_KEY:
-                tmdb_data = fetch_tmdb_data(movie["title"])
-                movie.update({
-                    "plot": tmdb_data.get("overview", ""),
-                    "genres": tmdb_data.get("genres", []),
-                    "rating": tmdb_data.get("vote_average", 0)
-                })
-            movies.append(movie)
-        return movies
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        print(f"{file_path} yerel olarak kaydedildi.")
     except Exception as e:
-        print(f"Hata (Filmler): {e}")
-        return []
-
-# TMDB'den meta veri çekme
-def fetch_tmdb_data(title):
-    try:
-        tmdb_url = f"https://api.themoviedb.org/3/search/movie?api_key={TMDB_API_KEY}&query={title}"
-        response = requests.get(tmdb_url)
-        print(f"Yanıt Durumu (TMDB): {response.status_code}")
-        print(f"Yanıt İçeriği (TMDB): {response.text[:1000]}")
-        response.raise_for_status()
-        data = response.json()
-        return data.get("results", [{}])[0]
-    except Exception as e:
-        print(f"Hata (TMDB): {e}")
-        return {}
-
-# GitHub'a JSON dosyasını yükleme
-def upload_to_github(data, file_path):
-    print(f"REPO_NAME: {REPO_NAME}")
-    print(f"BRANCH_NAME: {BRANCH_NAME}")
-    print(f"GITHUB_TOKEN (ilk 4 karakter): {GITHUB_TOKEN[:4] if GITHUB_TOKEN else 'Boş'}")
-    try:
-        g = Github(GITHUB_TOKEN)
-        repo = g.get_repo(REPO_NAME)
-        print(f"Depo alındı: {repo.full_name}")
-        contents = repo.get_contents(file_path, ref=BRANCH_NAME) if repo.get_contents(file_path, ref=BRANCH_NAME) else None
-        json_data = json.dumps(data, indent=2, ensure_ascii=False)
-        
-        if contents:
-            print(f"Dosya bulundu: {file_path}, güncelleniyor...")
-            repo.update_file(
-                path=file_path,
-                message=f"Update {file_path}",
-                content=json_data,
-                sha=contents.sha,
-                branch=BRANCH_NAME
-            )
-        else:
-            print(f"Dosya bulunamadı: {file_path}, oluşturuluyor...")
-            repo.create_file(
-                path=file_path,
-                message=f"Create {file_path}",
-                content=json_data,
-                branch=BRANCH_NAME
-            )
-        print(f"{file_path} başarıyla GitHub'a yüklendi.")
-    except Exception as e:
-        print(f"Hata (GitHub): {e}")
+        print(f"Hata (Dosya Kaydetme): {e}")
 
 # Ana fonksiyon
 def main():
     tv_channels = fetch_tv_channels()
     if tv_channels:
-        upload_to_github(tv_channels, JSON_FILE_PATH_TV)
-    
-    # movies = fetch_movies()  # Geçici olarak devre dışı
-    # if movies:
-    #     upload_to_github(movies, JSON_FILE_PATH_MOVIES)
+        save_to_file(tv_channels, JSON_FILE_PATH_TV)
 
 if __name__ == "__main__":
     main()
