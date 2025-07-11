@@ -14,6 +14,29 @@ VAVOO_HEADERS = {
     "accept-encoding": "gzip",
 }
 
+# mediahubmx-resolve.json için başlıklar
+RESOLVE_HEADERS = {
+    "user-agent": "MediaHubMX/2",
+    "accept": "application/json",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "115",
+    "accept-encoding": "gzip",
+    "mediahubmx-signature": "tosFwQCJMS8qrW_AjLoHPQ41646J5dRNha6ZWHnijoYQQQoADQoXYSo7ki7O5-CsgN4CH0uRk6EEoJ0728ar9scCRQW3ZkbfrPfeCXW2VgopSW2FWDqPOoVYIuVPAOnXCZ5g"
+}
+
+# .ts URL'sini .m3u8 formatına çevirme
+def resolve_to_m3u8(url):
+    try:
+        _data = {"language": "de", "region": "AT", "url": url, "clientVersion": "3.0.2"}
+        response = requests.post("https://vavoo.to/mediahubmx-resolve.json", json=_data, headers=RESOLVE_HEADERS)
+        response.raise_for_status()
+        resolved_url = response.json()[0]["url"]
+        print(f"Resolved URL: {resolved_url}")
+        return resolved_url
+    except Exception as e:
+        print(f"Error resolving URL {url}: {e}")
+        return url  # Hata durumunda orijinal URL'yi döndür
+
 # Canlı TV kanallarını çekme
 def fetch_tv_channels():
     try:
@@ -24,9 +47,12 @@ def fetch_tv_channels():
         data = response.json()
         channels = []
         for item in data:
+            original_url = item.get("url", "")
+            # .ts URL'sini .m3u8'e çevir
+            resolved_url = resolve_to_m3u8(original_url) if "vavoo" in original_url else original_url
             channel = {
                 "name": item.get("name", ""),
-                "url": item.get("url", ""),
+                "url": resolved_url,
                 "group": item.get("group", ""),
                 "logo": item.get("logo", "")
             }
