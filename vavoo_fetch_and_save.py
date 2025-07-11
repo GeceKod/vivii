@@ -95,7 +95,7 @@ def resolve_to_m3u8(url):
         RESOLVE_HEADERS["content-length"] = str(len(json.dumps(_data)))
         print(f"Resolving URL {url} with headers: {RESOLVE_HEADERS}")
         print(f"Request body: {json.dumps(_data)}")
-        response = requests.post("https://vavoo.to/vto-cluster/mediahubmx-resolve.json", json=_data, headers=RESOLVE_HEADERS, verify=False)
+        response = requests.post("https://vavoo.to/mediahubmx-source.json", json=_data, headers=RESOLVE_HEADERS, verify=False)
         response.raise_for_status()
         resolved_url = response.json()[0]["url"]
         print(f"Resolved URL: {resolved_url}")
