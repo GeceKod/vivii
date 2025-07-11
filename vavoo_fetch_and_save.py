@@ -20,7 +20,6 @@ RESOLVE_HEADERS = {
     "user-agent": "MediaHubMX/2",
     "accept": "application/json",
     "content-type": "application/json; charset=utf-8",
-    "content-length": "115",
     "accept-encoding": "gzip",
 }
 
@@ -31,7 +30,6 @@ def getAuthSignature():
             "user-agent": "okhttp/4.11.0",
             "accept": "application/json",
             "content-type": "application/json; charset=utf-8",
-            "content-length": "1106",
             "accept-encoding": "gzip"
         }
         _data = {
@@ -61,6 +59,7 @@ def getAuthSignature():
             "proxy": {"supported": ["ss", "openvpn"], "engine": "ss", "ssVersion": 1, "enabled": True, "autoServer": True, "id": "pl-waw"},
             "iap": {"supported": False}
         }
+        _headers["content-length"] = str(len(json.dumps(_data)))
         response = requests.post('https://www.vavoo.tv/api/app/ping', json=_data, headers=_headers, verify=False)
         response.raise_for_status()
         signature = response.json().get("addonSig", "")
@@ -72,6 +71,7 @@ def getAuthSignature():
         vec = {
             "vec": "9frjpxPjxSNilxJPCJ0XGYs6scej3dW/h/VWlnKUiLSG8IP7mfyDU7NirOlld+VtCKGj03XjetfliDMhIev7wcARo+YTU8KPFuVQP9E2DVXzY2BFo1NhE6qEmPfNDnm74eyl/7iFJ0EETm6XbYyz8IKBkAqPN/Spp3PZ2ulKg3QBSDxcVN4R5zRn7OsgLJ2CNTuWkd/h451lDCp+TtTuvnAEhcQckdsydFhTZCK5IiWrrTIC/d4qDXEd+GtOP4hPdoIuCaNzYfX3lLCwFENC6RZoTBYLrcKVVgbqyQZ7DnLqfLqvf3z0FVUWx9H21liGFpByzdnoxyFkue3NzrFtkRL37xkx9ITucepSYKzUVEfyBh+/3mtzKY26VIRkJFkpf8KVcCRNrTRQn47Wuq4gC7sSwT7eHCAydKSACcUMMdpPSvbvfOmIqeBNA83osX8FPFYUMZsjvYNEE3arbFiGsQlggBKgg1V3oN+5ni3Vjc5InHg/xv476LHDFnNdAJx448ph3DoAiJjr2g4ZTNynfSxdzA68qSuJY8UjyzgDjG0RIMv2h7DlQNjkAXv4k1BrPpfOiOqH67yIarNmkPIwrIV+W9TTV/yRyE1LEgOr4DK8uW2AUtHOPA2gn6P5sgFyi68w55MZBPepddfYTQ+E1N6R/hWnMYPt/i0xSUeMPekX47iucfpFBEv9Uh9zdGiEB+0P3LVMP+q+pbBU4o1NkKyY1V8wH1Wilr0a+q87kEnQ1LWYMMBhaP9yFseGSbYwdeLsX9uR1uPaN+u4woO2g8sw9Y5ze5XMgOVpFCZaut02I5k0U4WPyN5adQjG8sAzxsI3KsV04DEVymj224iqg2Lzz53Xz9yEy+7/85ILQpJ6llCyqpHLFyHq/kJxYPhDUF755WaHJEaFRPxUqbparNX+mCE9Xzy7Q/KTgAPiRS41FHXXv+7XSPp4cy9jli0BVnYf13Xsp28OGs/D8Nl3NgEn3/eUcMN80JRdsOrV62fnBVMBNf36+LbISdvsFAFr0xyuPGmlIETcFyxJkrGZnhHAxwzsvZ+Uwf8lffBfZFPRrNv+tgeeLpatVcHLHZGeTgWWml6tIHwWUqv2TVJeMkAEL5PPS4Gtbscau5HM+FEjtGS+KClfX1CNKvgYJl7mLDEf5ZYQv5kHaoQ6RcPaR6vUNn02zpq5/X3EPIgUKF0r/0ctmoT84B2J1BKfCbctdFY9br7JSJ6DvUxyde68jB+Il6qNcQwTFj4cNErk4x719Y42NoAnnQYC2/qfL/gAhJl8TKMvBt3Bno+va8ve8E0z8yEuMLUqe8OXLce6nCa+L5LYK1aBdb60BYbMeWk1qmG6Nk9OnYLhzDyrd9iHDd7X95OM6X5wiMVZRn5ebw4askTTc50xmrg4eic2U1w1JpSEjdH/u/hXrWKSMWAxaj34uQnMuWxPZEXoVxzGyuUbroXRfkhzpqmqqqOcypjsWPdq5BOUGL/Riwjm6yMI0x9kbO8+VoQ6RYfjAbxNriZ1cQ+AW1fqEgnRWXmjt4Z1M0ygUBi8w71bDML1YG6UHeC2cJ2CCCxSrfycKQhpSdI1QIuwd2eyIpd4LgwrMiY3xNWreAF+qobNxvE7ypKTISNrz0iYIhU0aKNlcGwYd0FXIRfKVBzSBe4MRK2pGLDNO6ytoHxvJweZ8h1XG8RWc4aB5gTnB7Tjiqym4b64lRdj1DPHJnzD4aqRixpXhzYzWVDN2kONCR5i2quYbnVFN4sSfLiKeOwKX4JdmzpYixNZXjLkG14seS6KR0Wl8Itp5IMIWFpnNokjRH76RYRZAcx0jP0V5/GfNNTi5QsEU98en0SiXHQGXnROiHpRUDXTl8FmJORjwXc0AjrEMuQ2FDJDmAIlKUSLhjbIiKw3iaqp5TVyXuz0ZMYBhnqhcwqULqtFSuIKpaW8FgF8QJfP2frADf4kKZG1bQ99MrRrb2A="
         }
+        _headers["content-length"] = str(len(json.dumps(vec)))
         response = requests.post('https://www.vavoo.tv/api/box/ping2', data=vec, verify=False)
         response.raise_for_status()
         signature = response.json()['response'].get('signed', "")
@@ -84,14 +84,17 @@ def getAuthSignature():
 # .ts URL'sini .m3u8 formatına çevirme veya .ts ile devam etme
 def resolve_to_m3u8(url):
     try:
-        RESOLVE_HEADERS["mediahubmx-signature"] = getAuthSignature()
+        signature = getAuthSignature()
         _data = {
             "language": "de",
             "region": "AT",
             "url": url,
-            "clientVersion": "3.0.2"
+            "clientVersion": "3.1.20"
         }
+        RESOLVE_HEADERS["mediahubmx-signature"] = signature
+        RESOLVE_HEADERS["content-length"] = str(len(json.dumps(_data)))
         print(f"Resolving URL {url} with headers: {RESOLVE_HEADERS}")
+        print(f"Request body: {json.dumps(_data)}")
         response = requests.post("https://vavoo.to/mediahubmx-resolve.json", json=_data, headers=RESOLVE_HEADERS, verify=False)
         response.raise_for_status()
         resolved_url = response.json()[0]["url"]
