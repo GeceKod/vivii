@@ -1,4 +1,4 @@
-name: Fetch VAVOO Data and Save to GitHub
+8name: Fetch VAVOO Data and Save to GitHub
 
 on:
   schedule:
@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests PyGithub pycryptodome
+          pip install requests PyGithub
 
       - name: Run VAVOO data fetch script
         env:
