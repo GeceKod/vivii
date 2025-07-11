@@ -1,0 +1,39 @@
+name: Fetch VAVOO Data and Save to GitHub
+
+on:un: python vavoo_fetch_and_save.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add vavoo_tv_channels.json vavoo_movies.json
+          git commit -m "Update VAVOO TV channels and movies data" || echo "No changes to commit"
+          git push
+```
+  schedule:
+    - cron: '0 0 * * *'  # Her gün gece yarısı çalışır
+  workflow_dispatch:  # Manuel çalıştırma için
+
+jobs:
+  fetch-and-save:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests PyGithub
+
+      - name: Run VAVOO data fetch script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+      
