@@ -1,4 +1,4 @@
-8name: Fetch VAVOO Data and Save to GitHub
+name: Fetch VAVOO Data and Save to GitHub
 
 on:
   schedule:
