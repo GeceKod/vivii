@@ -1,13 +1,7 @@
 import requests
 import json
 from github import Github
-import hashlib
-import time
 import os
-from Crypto.PublicKey import RSA
-from Crypto.Signature import PKCS1_v1_5
-from Crypto.Hash import SHA256
-import base64
 
 # GitHub ve VAVOO ayarları
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
@@ -16,7 +10,6 @@ JSON_FILE_PATH_TV = "vavoo_tv_channels.json"
 JSON_FILE_PATH_MOVIES = "vavoo_movies.json"
 
 # VAVOO.TO API ayarları
-VAVOO_CATALOG_URL = "https://vavoo.to/mediahubmx-catalog.json"
 VAVOO_LIVE_URL = "https://www2.vavoo.to/live2/index?output=json"
 VAVOO_MOVIE_URL = "https://vavoo.to/ccapi/"
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
@@ -29,83 +22,29 @@ VAVOO_HEADERS = {
     "accept-encoding": "gzip",
 }
 
-# VAVOO.TO için auth signature oluşturma
-def get_auth_signature():
-    public_key = """-----BEGIN PUBLIC KEY-----
-MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDYQ/yPjdNq0WHTyvYSqGBspT/e
-/dL9On1jW4TQ6cC1aXTtmGXwZvCRWAElFRItYps6Kh+oRzZmt2llfUhnYkC27Gzo
-V4sDzsnE6juA8mtJIC2PO28wnHwQXKYjBl7l6u+6uGsFhlUu+hCT8uKPPZtq5n26
-SFOGVgxIL5m9P1tZawIDAQAB
------END PUBLIC KEY-----"""
-    rsakey = RSA.importKey(public_key)
-    signer = PKCS1_v1_5.new(rsakey)
-    
-    data = {
-        "data": json.dumps({"timestamp": int(time.time())}),
-        "signature": ""
-    }
-    digest = SHA256.new()
-    digest.update(data["data"].encode("utf-8"))
-    signature = signer.sign(digest)
-    data["signature"] = base64.b64encode(signature).decode("utf-8")
-    return base64.b64encode(json.dumps(data).encode("utf-8")).decode("utf-8")
-
 # Canlı TV kanallarını çekme
 def fetch_tv_channels():
     try:
-        # Alternatif endpoint'i dene
         response = requests.get(VAVOO_LIVE_URL, headers=VAVOO_HEADERS)
         print(f"Yanıt Durumu (LIVE_URL): {response.status_code}")
         print(f"Yanıt İçeriği (LIVE_URL): {response.text}")
         response.raise_for_status()
         data = response.json()
         channels = []
-        for item in data.get("channels", []):
+        for item in data:  # Doğrudan liste üzerinde iterasyon
             channel = {
                 "name": item.get("name", ""),
                 "url": item.get("url", ""),
-                "group": item.get("group_title", ""),
-                "logo": item.get("tvg_logo", "")
+                "group": item.get("group", ""),
+                "logo": item.get("logo", "")
             }
             channels.append(channel)
         return channels
     except Exception as e:
         print(f"Hata (TV Kanalları - LIVE_URL): {e}")
-        # İlk endpoint'i dene
-        try:
-            payload = {
-                "language": "de",
-                "region": "AT",
-                "catalogId": "iptv",
-                "id": "iptv",
-                "adult": False,
-                "search": "",
-                "sort": "name",
-                "filter": {},
-                "cursor": "",
-                "clientVersion": "3.0.2"
-            }
-            VAVOO_HEADERS["mediahubmx-signature"] = get_auth_signature()
-            response = requests.post(VAVOO_CATALOG_URL, headers=VAVOO_HEADERS, json=payload)
-            print(f"Yanıt Durumu (CATALOG_URL): {response.status_code}")
-            print(f"Yanıt İçeriği (CATALOG_URL): {response.text}")
-            response.raise_for_status()
-            data = response.json()
-            channels = []
-            for item in data.get("items", []):
-                channel = {
-                    "name": item.get("name", ""),
-                    "url": item.get("url", ""),
-                    "group": item.get("group", ""),
-                    "logo": item.get("logo", "")
-                }
-                channels.append(channel)
-            return channels
-        except Exception as e:
-            print(f"Hata (TV Kanalları - CATALOG_URL): {e}")
-            return []
+        return []
 
-# Film bilgilerini çekme
+# Film bilgilerini çekme (geçici olarak devre dışı)
 def fetch_movies():
     try:
         response = requests.get(VAVOO_MOVIE_URL, headers=VAVOO_HEADERS)
@@ -182,9 +121,9 @@ def main():
     if tv_channels:
         upload_to_github(tv_channels, JSON_FILE_PATH_TV)
     
-    movies = fetch_movies()
-    if movies:
-        upload_to_github(movies, JSON_FILE_PATH_MOVIES)
+    # movies = fetch_movies()  # Geçici olarak devre dışı
+    # if movies:
+    #     upload_to_github(movies, JSON_FILE_PATH_MOVIES)
 
 if __name__ == "__main__":
     main()
