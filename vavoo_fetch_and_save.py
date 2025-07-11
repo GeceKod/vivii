@@ -5,7 +5,7 @@ import os
 
 # GitHub ve VAVOO ayarları
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-REPO_NAME = os.getenv("GITHUB_REPOSITORY")
+REPO_NAME = os.getenv("GeceKod/vavoo")
 JSON_FILE_PATH_TV = "vavoo_tv_channels.json"
 JSON_FILE_PATH_MOVIES = "vavoo_movies.json"
 
