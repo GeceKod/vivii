@@ -5,7 +5,8 @@ import os
 
 # GitHub ve VAVOO ayarları
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-REPO_NAME = os.getenv("GeceKod/vavoo")
+REPO_NAME = "GeceKod/vavoo"  # Sabit repo adı
+BRANCH_NAME = os.getenv("GITHUB_REF_NAME", "main")  # Varsayılan dal: main
 JSON_FILE_PATH_TV = "vavoo_tv_channels.json"
 JSON_FILE_PATH_MOVIES = "vavoo_movies.json"
 
@@ -27,11 +28,11 @@ def fetch_tv_channels():
     try:
         response = requests.get(VAVOO_LIVE_URL, headers=VAVOO_HEADERS)
         print(f"Yanıt Durumu (LIVE_URL): {response.status_code}")
-        print(f"Yanıt İçeriği (LIVE_URL): {response.text}")
+        print(f"Yanıt İçeriği (LIVE_URL): {response.text[:1000]}")  # İlk 1000 karakter
         response.raise_for_status()
         data = response.json()
         channels = []
-        for item in data:  # Doğrudan liste üzerinde iterasyon
+        for item in data:
             channel = {
                 "name": item.get("name", ""),
                 "url": item.get("url", ""),
@@ -49,7 +50,7 @@ def fetch_movies():
     try:
         response = requests.get(VAVOO_MOVIE_URL, headers=VAVOO_HEADERS)
         print(f"Yanıt Durumu (MOVIE_URL): {response.status_code}")
-        print(f"Yanıt İçeriği (MOVIE_URL): {response.text}")
+        print(f"Yanıt İçeriği (MOVIE_URL): {response.text[:1000]}")
         response.raise_for_status()
         data = response.json()
         
@@ -80,7 +81,7 @@ def fetch_tmdb_data(title):
         tmdb_url = f"https://api.themoviedb.org/3/search/movie?api_key={TMDB_API_KEY}&query={title}"
         response = requests.get(tmdb_url)
         print(f"Yanıt Durumu (TMDB): {response.status_code}")
-        print(f"Yanıt İçeriği (TMDB): {response.text}")
+        print(f"Yanıt İçeriği (TMDB): {response.text[:1000]}")
         response.raise_for_status()
         data = response.json()
         return data.get("results", [{}])[0]
@@ -90,26 +91,32 @@ def fetch_tmdb_data(title):
 
 # GitHub'a JSON dosyasını yükleme
 def upload_to_github(data, file_path):
+    print(f"REPO_NAME: {REPO_NAME}")
+    print(f"BRANCH_NAME: {BRANCH_NAME}")
+    print(f"GITHUB_TOKEN (ilk 4 karakter): {GITHUB_TOKEN[:4] if GITHUB_TOKEN else 'Boş'}")
     try:
         g = Github(GITHUB_TOKEN)
         repo = g.get_repo(REPO_NAME)
-        contents = repo.get_contents(file_path, ref="main") if repo.get_contents(file_path, ref="main") else None
+        print(f"Depo alındı: {repo.full_name}")
+        contents = repo.get_contents(file_path, ref=BRANCH_NAME) if repo.get_contents(file_path, ref=BRANCH_NAME) else None
         json_data = json.dumps(data, indent=2, ensure_ascii=False)
         
         if contents:
+            print(f"Dosya bulundu: {file_path}, güncelleniyor...")
             repo.update_file(
                 path=file_path,
                 message=f"Update {file_path}",
                 content=json_data,
                 sha=contents.sha,
-                branch="main"
+                branch=BRANCH_NAME
             )
         else:
+            print(f"Dosya bulunamadı: {file_path}, oluşturuluyor...")
             repo.create_file(
                 path=file_path,
                 message=f"Create {file_path}",
                 content=json_data,
-                branch="main"
+                branch=BRANCH_NAME
             )
         print(f"{file_path} başarıyla GitHub'a yüklendi.")
     except Exception as e:
