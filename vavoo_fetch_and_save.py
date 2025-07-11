@@ -3,10 +3,11 @@ import json
 from github import Github
 import hashlib
 import time
+import os
 
-# GitHub ayarları
-GITHUB_TOKEN = "your_github_personal_access_token"  # GitHub Personal Access Token
-REPO_NAME = "your_username/your_repository"  # Örnek: "kullanici_adiniz/depo_adiniz"
+# GitHub ve VAVOO ayarları
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")  # GitHub Actions'tan otomatik token
+REPO_NAME = os.getenv("GITHUB_REPOSITORY")  # Çalıştığı deponun adı (örneğin, "kullanici_adiniz/depo_adiniz")
 JSON_FILE_PATH_TV = "vavoo_tv_channels.json"
 JSON_FILE_PATH_MOVIES = "vavoo_movies.json"
 
@@ -15,7 +16,7 @@ VAVOO_CATALOG_URL = "https://vavoo.to/mediahubmx-catalog.json"
 VAVOO_RESOLVE_URL = "https://vavoo.to/mediahubmx-resolve.json"
 VAVOO_LIVE_URL = "https://www2.vavoo.to/live2/index?output=json"
 VAVOO_MOVIE_URL = "https://vavoo.to/ccapi/"
-TMDB_API_KEY = "your_tmdb_api_key"  # TMDB API anahtarı (opsiyonel)
+TMDB_API_KEY = os.getenv("TMDB_API_KEY")  # Opsiyonel TMDB API anahtarı
 
 # VAVOO.TO için gerekli başlıklar
 VAVOO_HEADERS = {
@@ -27,7 +28,6 @@ VAVOO_HEADERS = {
 
 # VAVOO.TO için auth signature oluşturma (basit bir örnek)
 def get_auth_signature():
-    # Gerçek uygulamada RSA-SHA256 ile doğrulama gerekir, burada basit bir örnek
     timestamp = str(int(time.time()))
     data = f"some_data{timestamp}".encode("utf-8")
     return hashlib.sha256(data).hexdigest()
