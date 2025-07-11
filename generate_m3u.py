@@ -18,9 +18,10 @@ def generate_m3u():
             url = channel.get("url", "")
             group = channel.get("group", "Standart")
             logo = channel.get("logo", "")
+            print(f"Adding channel: {name}, URL: {url}")
             # M3U satırı oluştur
             m3u_content.append(
-                f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}\n{url}\n'
+                f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}\n{url}|User-Agent=VAVOO/2.6\n'
             )
         
         # M3U dosyasını kaydet
