@@ -33,13 +33,13 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BILD TV (7)" tvg-logo="" group-title="Germany",BILD TV (7)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="BOLLYWOOD (7)" tvg-logo="" group-title="Germany",BOLLYWOOD (7)
-https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BON GUSTO (7)" tvg-logo="" group-title="Germany",BON GUSTO (7)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BOOMERANG (7)" tvg-logo="" group-title="Germany",BOOMERANG (7)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BR (7)" tvg-logo="" group-title="Germany",BR (7)
+https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="CAMPUS TV (7)" tvg-logo="" group-title="Germany",CAMPUS TV (7)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CARTOON NETWORK (7)" tvg-logo="" group-title="Germany",CARTOON NETWORK (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
@@ -77,9 +77,13 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DYN SPORT 3 (7)" tvg-logo="" group-title="Germany",DYN SPORT 3 (7)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="DYN SPORT 7 (7)" tvg-logo="" group-title="Germany",DYN SPORT 7 (7)
+#EXTINF:-1 tvg-name="DYN SPORT 5 (7)" tvg-logo="" group-title="Germany",DYN SPORT 5 (7)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="DYN SPORT 6 (7)" tvg-logo="" group-title="Germany",DYN SPORT 6 (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DYN SPORT 8 (7)" tvg-logo="" group-title="Germany",DYN SPORT 8 (7)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="DYN SPORT 9 (7)" tvg-logo="" group-title="Germany",DYN SPORT 9 (7)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="E! ENTERTAINMENT (7)" tvg-logo="" group-title="Germany",E! ENTERTAINMENT (7)
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
@@ -263,6 +267,8 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RTL LUXEMBOURG (7)" tvg-logo="" group-title="Germany",RTL LUXEMBOURG (7)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="RTL LUXEMBOURG 2 (7)" tvg-logo="" group-title="Germany",RTL LUXEMBOURG 2 (7)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RTL NITRO (7)" tvg-logo="" group-title="Germany",RTL NITRO (7)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RTL PASSION (7)" tvg-logo="" group-title="Germany",RTL PASSION (7)
@@ -369,8 +375,6 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY POPCORN SELECT 3 (7)" tvg-logo="" group-title="Germany",SKY POPCORN SELECT 3 (7)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="SKY POPCORN SELECT 4 (7)" tvg-logo="" group-title="Germany",SKY POPCORN SELECT 4 (7)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY POPCORN SELECT 5 (7)" tvg-logo="" group-title="Germany",SKY POPCORN SELECT 5 (7)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY REPLAY (7)" tvg-logo="" group-title="Germany",SKY REPLAY (7)
@@ -385,8 +389,6 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY SELECT 10 4K (MULTIAUDIO) (7)" tvg-logo="" group-title="Germany",SKY SELECT 10 4K (MULTIAUDIO) (7)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="SKY SELECT 11 4K (MULTIAUDIO) (7)" tvg-logo="" group-title="Germany",SKY SELECT 11 4K (MULTIAUDIO) (7)
-https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY SELECT 12 4K (MULTIAUDIO) (7)" tvg-logo="" group-title="Germany",SKY SELECT 12 4K (MULTIAUDIO) (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY SELECT 13 4K (MULTIAUDIO) (7)" tvg-logo="" group-title="Germany",SKY SELECT 13 4K (MULTIAUDIO) (7)
@@ -410,6 +412,8 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 #EXTINF:-1 tvg-name="SKY SELECT 8 (7)" tvg-logo="" group-title="Germany",SKY SELECT 8 (7)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY SELECT 9 (7)" tvg-logo="" group-title="Germany",SKY SELECT 9 (7)
+https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="SKY SPORT 1 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Germany",SKY SPORT 1 [LIVE DURING EVENTS ONLY] (7)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY SPORT 10 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Germany",SKY SPORT 10 [LIVE DURING EVENTS ONLY] (7)
 https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
@@ -523,6 +527,8 @@ https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="WARNER COMEDY (7)" tvg-logo="" group-title="Germany",WARNER COMEDY (7)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="WARNER COMEDY (BACKUP) (7)" tvg-logo="" group-title="Germany",WARNER COMEDY (BACKUP) (7)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="WARNER TV FILM (7)" tvg-logo="" group-title="Germany",WARNER TV FILM (7)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="WARNER TV SERIE (7)" tvg-logo="" group-title="Germany",WARNER TV SERIE (7)
@@ -695,10 +701,10 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="KS PREMIER 1 (7)" tvg-logo="" group-title="Albania",KS PREMIER 1 (7)
 https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="KS PREMIER 2 (7)" tvg-logo="" group-title="Albania",KS PREMIER 2 (7)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="KS PREMIER 3 (7)" tvg-logo="" group-title="Albania",KS PREMIER 3 (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="KS PREMIER 4 (7)" tvg-logo="" group-title="Albania",KS PREMIER 4 (7)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="KTV (7)" tvg-logo="" group-title="Albania",KTV (7)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="KUJTESA SPORT 1 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Albania",KUJTESA SPORT 1 [LIVE DURING EVENTS ONLY] (7)
@@ -1281,6 +1287,8 @@ https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RTL (7)" tvg-logo="" group-title="Balkans",RTL (7)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="RTL 2 (7)" tvg-logo="" group-title="Balkans",RTL 2 (7)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RTL CRIME (7)" tvg-logo="" group-title="Balkans",RTL CRIME (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RTL KOCKICA (7)" tvg-logo="" group-title="Balkans",RTL KOCKICA (7)
@@ -1451,6 +1459,8 @@ https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3N
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DIEMA SPORT 2 (7)" tvg-logo="" group-title="Bulgaria",DIEMA SPORT 2 (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="DIEMA TV (7)" tvg-logo="" group-title="Bulgaria",DIEMA TV (7)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Bulgaria",DISCOVERY CHANNEL (7)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE (7)" tvg-logo="" group-title="Bulgaria",DISCOVERY SCIENCE (7)
@@ -1466,6 +1476,8 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 #EXTINF:-1 tvg-name="FEN TV (7)" tvg-logo="" group-title="Bulgaria",FEN TV (7)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="FIGHTBOX (7)" tvg-logo="" group-title="Bulgaria",FIGHTBOX (7)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="FILM PLUS (7)" tvg-logo="" group-title="Bulgaria",FILM PLUS (7)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="FILMBOX EXTRA (7)" tvg-logo="" group-title="Bulgaria",FILMBOX EXTRA (7)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
@@ -1593,6 +1605,8 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ALTICE STUDIO HD (7)" tvg-logo="" group-title="France",ALTICE STUDIO HD (7)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="AMAZON PRIME 1 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="France",AMAZON PRIME 1 [LIVE DURING EVENTS ONLY] (7)
+https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="AMAZON PRIME 2 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="France",AMAZON PRIME 2 [LIVE DURING EVENTS ONLY] (7)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="AMAZON PRIME 3 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="France",AMAZON PRIME 3 [LIVE DURING EVENTS ONLY] (7)
@@ -1783,8 +1797,6 @@ https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CARTOON NETWORK FHD (7)" tvg-logo="" group-title="France",CARTOON NETWORK FHD (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="CGTN (7)" tvg-logo="" group-title="France",CGTN (7)
-https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CHASSE & PECHE (7)" tvg-logo="" group-title="France",CHASSE & PECHE (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CHERIE 25 FHD (7)" tvg-logo="" group-title="France",CHERIE 25 FHD (7)
@@ -1795,8 +1807,6 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CINE+ CLASSIC (7)" tvg-logo="" group-title="France",CINE+ CLASSIC (7)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="CINE+ CLASSIC FHD (7)" tvg-logo="" group-title="France",CINE+ CLASSIC FHD (7)
-https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CINE+ CLASSIC HD (7)" tvg-logo="" group-title="France",CINE+ CLASSIC HD (7)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CINE+ CLUB (7)" tvg-logo="" group-title="France",CINE+ CLUB (7)
@@ -2097,12 +2107,12 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RAKUTEN COMEDY MOVIES FRANCE (7)" tvg-logo="" group-title="France",RAKUTEN COMEDY MOVIES FRANCE (7)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="RAKUTEN GUARDIAN (7)" tvg-logo="" group-title="France",RAKUTEN GUARDIAN (7)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RAKUTEN SERIE CRIME (7)" tvg-logo="" group-title="France",RAKUTEN SERIE CRIME (7)
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RAKUTEN SPOTLIGHT FRANCE (7)" tvg-logo="" group-title="France",RAKUTEN SPOTLIGHT FRANCE (7)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="RAKUTEN TV (7)" tvg-logo="" group-title="France",RAKUTEN TV (7)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RAKUTEN TV ANIME DIGITAL NETWORK (7)" tvg-logo="" group-title="France",RAKUTEN TV ANIME DIGITAL NETWORK (7)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RAKUTEN TV BBC DOCTOR WHO FRANCE (7)" tvg-logo="" group-title="France",RAKUTEN TV BBC DOCTOR WHO FRANCE (7)
@@ -2131,8 +2141,6 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RFM TV (7)" tvg-logo="" group-title="France",RFM TV (7)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="RFM TV MUSIC (7)" tvg-logo="" group-title="France",RFM TV MUSIC (7)
-https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RMC DECOUVERTE (7)" tvg-logo="" group-title="France",RMC DECOUVERTE (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RMC SPORT 1 (7)" tvg-logo="" group-title="France",RMC SPORT 1 (7)
@@ -2347,8 +2355,6 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="HGTV (7)" tvg-logo="" group-title="Italy",HGTV (7)
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="HISTORY (7)" tvg-logo="" group-title="Italy",HISTORY (7)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ICARO TV (7)" tvg-logo="" group-title="Italy",ICARO TV (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ITALIA 3 (7)" tvg-logo="" group-title="Italy",ITALIA 3 (7)
@@ -2433,6 +2439,12 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RAKUTEN DRAMA (7)" tvg-logo="" group-title="Italy",RAKUTEN DRAMA (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="RAKUTEN FAMILY (7)" tvg-logo="" group-title="Italy",RAKUTEN FAMILY (7)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="RAKUTEN TOP FREE (7)" tvg-logo="" group-title="Italy",RAKUTEN TOP FREE (7)
+https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="RAKUTEN TV SHOWS (7)" tvg-logo="" group-title="Italy",RAKUTEN TV SHOWS (7)
+https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RDS SOCIAL (7)" tvg-logo="" group-title="Italy",RDS SOCIAL (7)
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="REAL TIME (7)" tvg-logo="" group-title="Italy",REAL TIME (7)
@@ -2499,6 +2511,8 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY SPORT 24 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Italy",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (7)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="SKY SPORT ARENA (7)" tvg-logo="" group-title="Italy",SKY SPORT ARENA (7)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY SPORT CALCIO (7)" tvg-logo="" group-title="Italy",SKY SPORT CALCIO (7)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Italy",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (7)
@@ -2507,6 +2521,8 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY SPORT MOTOGP (7)" tvg-logo="" group-title="Italy",SKY SPORT MOTOGP (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="SKY SPORT NBA (7)" tvg-logo="" group-title="Italy",SKY SPORT NBA (7)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY SPORT TENNIS (7)" tvg-logo="" group-title="Italy",SKY SPORT TENNIS (7)
 https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY SPORT UNO (7)" tvg-logo="" group-title="Italy",SKY SPORT UNO (7)
@@ -3073,8 +3089,6 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TV 1000 (7)" tvg-logo="" group-title="Romania",TV 1000 (7)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="TV5 MONDE (7)" tvg-logo="" group-title="Romania",TV5 MONDE (7)
-https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TVR 1 (7)" tvg-logo="" group-title="Romania",TVR 1 (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TVR 2 (7)" tvg-logo="" group-title="Romania",TVR 2 (7)
@@ -3163,8 +3177,6 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CTC (7)" tvg-logo="" group-title="Russia",CTC (7)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="CTC LOVE (7)" tvg-logo="" group-title="Russia",CTC LOVE (7)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DA VINCI KIDS (7)" tvg-logo="" group-title="Russia",DA VINCI KIDS (7)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DETSKIJ (7)" tvg-logo="" group-title="Russia",DETSKIJ (7)
@@ -3327,8 +3339,6 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="MTV LIVE (7)" tvg-logo="" group-title="Russia",MTV LIVE (7)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="MTV YO! (7)" tvg-logo="" group-title="Russia",MTV YO! (7)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="MULT TV (7)" tvg-logo="" group-title="Russia",MULT TV (7)
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="MULTI MANIA (7)" tvg-logo="" group-title="Russia",MULTI MANIA (7)
@@ -3635,8 +3645,6 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="A PARA (7)" tvg-logo="" group-title="Turkey",A PARA (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="A SPOR (7)" tvg-logo="" group-title="Turkey",A SPOR (7)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="A2 (7)" tvg-logo="" group-title="Turkey",A2 (7)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="AFYON TURK (7)" tvg-logo="" group-title="Turkey",AFYON TURK (7)
@@ -4109,8 +4117,6 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TIVIBU SPOR 2 (7)" tvg-logo="" group-title="Turkey",TIVIBU SPOR 2 (7)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="TIVIBU SPOR 3 (7)" tvg-logo="" group-title="Turkey",TIVIBU SPOR 3 (7)
-https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TJK TV (7)" tvg-logo="" group-title="Turkey",TJK TV (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TLC (7)" tvg-logo="" group-title="Turkey",TLC (7)
@@ -4358,7 +4364,7 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 #EXTINF:-1 tvg-name="GOLD (7)" tvg-logo="" group-title="United Kingdom",GOLD (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="GOOD FOOD (7)" tvg-logo="" group-title="United Kingdom",GOOD FOOD (7)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=tosFwQCJMS8qrW_AjLoHPQ41646J5dRN|User-Agent=VAVOO/2.6
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="HGTV +1 (7)" tvg-logo="" group-title="United Kingdom",HGTV +1 (7)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="HISTORY 2 (7)" tvg-logo="" group-title="United Kingdom",HISTORY 2 (7)
@@ -4521,10 +4527,14 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY NATURE (7)" tvg-logo="" group-title="United Kingdom",SKY NATURE (7)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="SKY NEWS (7)" tvg-logo="" group-title="United Kingdom",SKY NEWS (7)
+https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY NEWS (BACKUP) (7)" tvg-logo="" group-title="United Kingdom",SKY NEWS (BACKUP) (7)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY SCI-FI & HORROR (7)" tvg-logo="" group-title="United Kingdom",SKY SCI-FI & HORROR (7)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="SKY SELECT PREMIERE 04 4K (MULTIAUDIO) (7)" tvg-logo="" group-title="United Kingdom",SKY SELECT PREMIERE 04 4K (MULTIAUDIO) (7)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY SELECT PREMIERE 05 4K (MULTIAUDIO) (7)" tvg-logo="" group-title="United Kingdom",SKY SELECT PREMIERE 05 4K (MULTIAUDIO) (7)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY SELECT PREMIERE 06 4K (MULTIAUDIO) (7)" tvg-logo="" group-title="United Kingdom",SKY SELECT PREMIERE 06 4K (MULTIAUDIO) (7)
@@ -4655,6 +4665,8 @@ https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3N
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="AXN BLACK (6)" tvg-logo="" group-title="Germany",AXN BLACK (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="AXN WHITE (6)" tvg-logo="" group-title="Germany",AXN WHITE (6)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BABY TV (6)" tvg-logo="" group-title="Germany",BABY TV (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BADEN TV (6)" tvg-logo="" group-title="Germany",BADEN TV (6)
@@ -4699,12 +4711,16 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DELUXE MUSIC (6)" tvg-logo="" group-title="Germany",DELUXE MUSIC (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="DER AKTIONÄR TV (6)" tvg-logo="" group-title="Germany",DER AKTIONÄR TV (6)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DEUTSCHES MUSIK FERNSEHEN (6)" tvg-logo="" group-title="Germany",DEUTSCHES MUSIK FERNSEHEN (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DIE NEUE ZEIT TV (6)" tvg-logo="" group-title="Germany",DIE NEUE ZEIT TV (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DISCOVERY WORLD (6)" tvg-logo="" group-title="Germany",DISCOVERY WORLD (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="DISNEY+ (6)" tvg-logo="" group-title="Germany",DISNEY+ (6)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DMAX (6)" tvg-logo="" group-title="Germany",DMAX (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DRESDEN (6)" tvg-logo="" group-title="Germany",DRESDEN (6)
@@ -4748,6 +4764,8 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 #EXTINF:-1 tvg-name="GERMANY BESONDERE 1 (6)" tvg-logo="" group-title="Germany",GERMANY BESONDERE 1 (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="GERMANY BESONDERE 2 (6)" tvg-logo="" group-title="Germany",GERMANY BESONDERE 2 (6)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="GERMANY BESONDERE 3 (6)" tvg-logo="" group-title="Germany",GERMANY BESONDERE 3 (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="GERMANY KONIG FILME 1 (6)" tvg-logo="" group-title="Germany",GERMANY KONIG FILME 1 (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
@@ -4867,8 +4885,6 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="NICK EMMA EINFACH MAGISCH (6)" tvg-logo="" group-title="Germany",NICK EMMA EINFACH MAGISCH (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="NICK JUNIOR (6)" tvg-logo="" group-title="Germany",NICK JUNIOR (6)
-https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="NICKELODEON (6)" tvg-logo="" group-title="Germany",NICKELODEON (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="NICKTOONS (6)" tvg-logo="" group-title="Germany",NICKTOONS (6)
@@ -5179,8 +5195,6 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE (6)" tvg-logo="" group-title="Germany",SPIEGEL GESCHICHTE (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="SPIEGEL TV WISSEN (6)" tvg-logo="" group-title="Germany",SPIEGEL TV WISSEN (6)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SPORT 1 (6)" tvg-logo="" group-title="Germany",SPORT 1 (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SPORT 1+ (6)" tvg-logo="" group-title="Germany",SPORT 1+ (6)
@@ -5189,18 +5203,18 @@ https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SR FERNSEHEN (6)" tvg-logo="" group-title="Germany",SR FERNSEHEN (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="STERN FILME 1 (6)" tvg-logo="" group-title="Germany",STERN FILME 1 (6)
-https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="STERN FILME 2 (6)" tvg-logo="" group-title="Germany",STERN FILME 2 (6)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="STERN FILME 3 (6)" tvg-logo="" group-title="Germany",STERN FILME 3 (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="STERN FILME 4 (6)" tvg-logo="" group-title="Germany",STERN FILME 4 (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="STERN FILME 5 (6)" tvg-logo="" group-title="Germany",STERN FILME 5 (6)
-https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="STERN FILME 6 (6)" tvg-logo="" group-title="Germany",STERN FILME 6 (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="STERN FILME 7 (6)" tvg-logo="" group-title="Germany",STERN FILME 7 (6)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="STERN FILME 8 (6)" tvg-logo="" group-title="Germany",STERN FILME 8 (6)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="STERN FILME 9 (6)" tvg-logo="" group-title="Germany",STERN FILME 9 (6)
+https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="STINGRAY CLASSICA (6)" tvg-logo="" group-title="Germany",STINGRAY CLASSICA (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SUPER RTL (6)" tvg-logo="" group-title="Germany",SUPER RTL (6)
@@ -5316,7 +5330,7 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 #EXTINF:-1 tvg-name="ARTI TV (6)" tvg-logo="" group-title="Albania",ARTI TV (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ASHKALI TV (6)" tvg-logo="" group-title="Albania",ASHKALI TV (6)
-https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=tosFwQCJMS8qrW_AjLoHPQ41646J5dRN|User-Agent=VAVOO/2.6
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ATV (6)" tvg-logo="" group-title="Albania",ATV (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BABY TV (6)" tvg-logo="" group-title="Albania",BABY TV (6)
@@ -5587,6 +5601,8 @@ https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NT
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="KUJTESA SPORT 3 (6)" tvg-logo="" group-title="Albania",KUJTESA SPORT 3 (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="KUJTESA SPORT 4 (6)" tvg-logo="" group-title="Albania",KUJTESA SPORT 4 (6)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="LIRIA (6)" tvg-logo="" group-title="Albania",LIRIA (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="LIVING (6)" tvg-logo="" group-title="Albania",LIVING (6)
@@ -5679,8 +5695,6 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RTSH PLUS (6)" tvg-logo="" group-title="Albania",RTSH PLUS (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="RTSH SHKODRA (6)" tvg-logo="" group-title="Albania",RTSH SHKODRA (6)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RTSH SHKOLLE (6)" tvg-logo="" group-title="Albania",RTSH SHKOLLE (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RTSH SHQIP (6)" tvg-logo="" group-title="Albania",RTSH SHQIP (6)
@@ -5735,12 +5749,12 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="STATION BOX (6)" tvg-logo="" group-title="Albania",STATION BOX (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="SUPER SONIC TV (6)" tvg-logo="" group-title="Albania",SUPER SONIC TV (6)
-https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SUPERSPORT 2 (6)" tvg-logo="" group-title="Albania",SUPERSPORT 2 (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SUPERSPORT 3 (6)" tvg-logo="" group-title="Albania",SUPERSPORT 3 (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="SUPERSPORT 4 (6)" tvg-logo="" group-title="Albania",SUPERSPORT 4 (6)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SUPERSPORT 5 (6)" tvg-logo="" group-title="Albania",SUPERSPORT 5 (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SUPERSPORT 6 (6)" tvg-logo="" group-title="Albania",SUPERSPORT 6 (6)
@@ -5823,8 +5837,6 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TV ARBËRIA 4 MUZIKË (6)" tvg-logo="" group-title="Albania",TV ARBËRIA 4 MUZIKË (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="TV ARBËRIA 5 FILM (6)" tvg-logo="" group-title="Albania",TV ARBËRIA 5 FILM (6)
-https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TV ARBËRIA 6 RETRO HITS (6)" tvg-logo="" group-title="Albania",TV ARBËRIA 6 RETRO HITS (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TV ARBËRIA 7 ARSHI I ALLAHUT (6)" tvg-logo="" group-title="Albania",TV ARBËRIA 7 ARSHI I ALLAHUT (6)
@@ -5855,6 +5867,8 @@ https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3N
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="VIZION PLUS (6)" tvg-logo="" group-title="Albania",VIZION PLUS (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="X KIDS (6)" tvg-logo="" group-title="Albania",X KIDS (6)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ZICO TV (6)" tvg-logo="" group-title="Albania",ZICO TV (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ZJARR TV (6)" tvg-logo="" group-title="Albania",ZJARR TV (6)
@@ -6683,6 +6697,8 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DUCK TV (6)" tvg-logo="" group-title="Bulgaria",DUCK TV (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="EKIDS (6)" tvg-logo="" group-title="Bulgaria",EKIDS (6)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="EPIC DRAMA (6)" tvg-logo="" group-title="Bulgaria",EPIC DRAMA (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="EUROFOLK TV (6)" tvg-logo="" group-title="Bulgaria",EUROFOLK TV (6)
@@ -6831,10 +6847,10 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="AFRICA 24 (6)" tvg-logo="" group-title="France",AFRICA 24 (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="ALSACE 20 (6)" tvg-logo="" group-title="France",ALSACE 20 (6)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ALTICE STUDIO (6)" tvg-logo="" group-title="France",ALTICE STUDIO (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="AMAZON PRIME 3 (6)" tvg-logo="" group-title="France",AMAZON PRIME 3 (6)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="AMAZON PRIME 4 (6)" tvg-logo="" group-title="France",AMAZON PRIME 4 (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ANIMAUX (6)" tvg-logo="" group-title="France",ANIMAUX (6)
@@ -6847,6 +6863,8 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 (6)" tvg-logo="" group-title="France",BEIN SPORTS 1 (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 (6)" tvg-logo="" group-title="France",BEIN SPORTS 2 (6)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 (6)" tvg-logo="" group-title="France",BEIN SPORTS 3 (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 10 (6)" tvg-logo="" group-title="France",BEIN SPORTS MAX 10 (6)
@@ -6869,6 +6887,8 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BFM BUSINESS (6)" tvg-logo="" group-title="France",BFM BUSINESS (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="BFM PARIS (6)" tvg-logo="" group-title="France",BFM PARIS (6)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BFM TV (6)" tvg-logo="" group-title="France",BFM TV (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BIP TV (6)" tvg-logo="" group-title="France",BIP TV (6)
@@ -6981,8 +7001,6 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CLUBBING TV (6)" tvg-logo="" group-title="France",CLUBBING TV (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="COMEDIE+ (6)" tvg-logo="" group-title="France",COMEDIE+ (6)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="COMEDY CENTRAL (6)" tvg-logo="" group-title="France",COMEDY CENTRAL (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CRIBS MAISONS DE STAR (6)" tvg-logo="" group-title="France",CRIBS MAISONS DE STAR (6)
@@ -7003,8 +7021,6 @@ https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3N
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DISCOVERY WORLD (6)" tvg-logo="" group-title="France",DISCOVERY WORLD (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="DISNEY+ (6)" tvg-logo="" group-title="France",DISNEY+ (6)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="E! (6)" tvg-logo="" group-title="France",E! (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="EQUIDIA (6)" tvg-logo="" group-title="France",EQUIDIA (6)
@@ -7149,8 +7165,6 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="NOVELAS TV (6)" tvg-logo="" group-title="France",NOVELAS TV (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="NRJ 12 (6)" tvg-logo="" group-title="France",NRJ 12 (6)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="NRJ HITS (6)" tvg-logo="" group-title="France",NRJ HITS (6)
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="OCS CHOC (6)" tvg-logo="" group-title="France",OCS CHOC (6)
@@ -7191,8 +7205,6 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RMC SPORT 1 (6)" tvg-logo="" group-title="France",RMC SPORT 1 (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="RMC SPORT 10 (6)" tvg-logo="" group-title="France",RMC SPORT 10 (6)
-https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RMC SPORT 12 (6)" tvg-logo="" group-title="France",RMC SPORT 12 (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RMC SPORT 16 (6)" tvg-logo="" group-title="France",RMC SPORT 16 (6)
@@ -7205,6 +7217,8 @@ https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3N
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RMC SPORT 5 (6)" tvg-logo="" group-title="France",RMC SPORT 5 (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="RMC SPORT 7 (6)" tvg-logo="" group-title="France",RMC SPORT 7 (6)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RMC SPORT 9 (6)" tvg-logo="" group-title="France",RMC SPORT 9 (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RMC STORY (6)" tvg-logo="" group-title="France",RMC STORY (6)
@@ -7259,6 +7273,8 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TV BREIZH (6)" tvg-logo="" group-title="France",TV BREIZH (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="TV FRANCOPHONIE (6)" tvg-logo="" group-title="France",TV FRANCOPHONIE (6)
+https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TV PITCHOUN (6)" tvg-logo="" group-title="France",TV PITCHOUN (6)
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TV5MONDE EUROPE (6)" tvg-logo="" group-title="France",TV5MONDE EUROPE (6)
@@ -7293,6 +7309,8 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="WEO TV (6)" tvg-logo="" group-title="France",WEO TV (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="WILDSIDE TV (6)" tvg-logo="" group-title="France",WILDSIDE TV (6)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="111 TV (6)" tvg-logo="" group-title="Italy",111 TV (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="12 TV PARMA (6)" tvg-logo="" group-title="Italy",12 TV PARMA (6)
@@ -7436,8 +7454,6 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 #EXTINF:-1 tvg-name="HISTORY (6)" tvg-logo="" group-title="Italy",HISTORY (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ICARO TV (6)" tvg-logo="" group-title="Italy",ICARO TV (6)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="INTER TV (6)" tvg-logo="" group-title="Italy",INTER TV (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="IRIS (6)" tvg-logo="" group-title="Italy",IRIS (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
@@ -7591,6 +7607,8 @@ https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RTTR (6)" tvg-logo="" group-title="Italy",RTTR (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="RTV SPORT (6)" tvg-logo="" group-title="Italy",RTV SPORT (6)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SENATO TV (6)" tvg-logo="" group-title="Italy",SENATO TV (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY ARTE (6)" tvg-logo="" group-title="Italy",SKY ARTE (6)
@@ -7627,8 +7645,6 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 15 (6)" tvg-logo="" group-title="Italy",SKY PRIMAFILA 15 (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="SKY PRIMAFILA 16 (6)" tvg-logo="" group-title="Italy",SKY PRIMAFILA 16 (6)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 17 (6)" tvg-logo="" group-title="Italy",SKY PRIMAFILA 17 (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 18 (6)" tvg-logo="" group-title="Italy",SKY PRIMAFILA 18 (6)
@@ -7638,7 +7654,7 @@ https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3N
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 3 (6)" tvg-logo="" group-title="Italy",SKY PRIMAFILA 3 (6)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 4 (6)" tvg-logo="" group-title="Italy",SKY PRIMAFILA 4 (6)
-https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=tosFwQCJMS8qrW_AjLoHPQ41646J5dRN|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 5 (6)" tvg-logo="" group-title="Italy",SKY PRIMAFILA 5 (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY PRIMAFILA 6 (6)" tvg-logo="" group-title="Italy",SKY PRIMAFILA 6 (6)
@@ -8927,6 +8943,12 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="EUROSPORT 2 (6)" tvg-logo="" group-title="Spain",EUROSPORT 2 (6)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="EUROSPORT 3 (6)" tvg-logo="" group-title="Spain",EUROSPORT 3 (6)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="EUROSPORT 4 (6)" tvg-logo="" group-title="Spain",EUROSPORT 4 (6)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="EUROSPORT 5 (6)" tvg-logo="" group-title="Spain",EUROSPORT 5 (6)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="FACTORIA DE FICCION (6)" tvg-logo="" group-title="Spain",FACTORIA DE FICCION (6)
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="FOX (6)" tvg-logo="" group-title="Spain",FOX (6)
@@ -9185,8 +9207,6 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BEIN BOX OFFICE 3 (6)" tvg-logo="" group-title="Turkey",BEIN BOX OFFICE 3 (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="BEIN BOX OFFICE TURK (6)" tvg-logo="" group-title="Turkey",BEIN BOX OFFICE TURK (6)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BEIN GURME (6)" tvg-logo="" group-title="Turkey",BEIN GURME (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BEIN IZ (6)" tvg-logo="" group-title="Turkey",BEIN IZ (6)
@@ -9284,8 +9304,6 @@ https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3N
 #EXTINF:-1 tvg-name="DENIZ POSTASI TV (6)" tvg-logo="" group-title="Turkey",DENIZ POSTASI TV (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DIM TV (6)" tvg-logo="" group-title="Turkey",DIM TV (6)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE (6)" tvg-logo="" group-title="Turkey",DISCOVERY SCIENCE (6)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DISCOVERY WORLD (6)" tvg-logo="" group-title="Turkey",DISCOVERY WORLD (6)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
@@ -9769,8 +9787,6 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="6EREN (1)" tvg-logo="" group-title="Germany",6EREN (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="A&E HD (1)" tvg-logo="" group-title="Germany",A&E HD (1)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="AMAZON PRIME HD (1)" tvg-logo="" group-title="Germany",AMAZON PRIME HD (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ANIMAL PLANET HD (1)" tvg-logo="" group-title="Germany",ANIMAL PLANET HD (1)
@@ -9817,18 +9833,18 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BLUETV ACTION 2 ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV ACTION 2 ʜᴅ (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="BLUETV ACTION ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV ACTION ʜᴅ (1)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="BLUETV ACTION 3 ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV ACTION 3 ʜᴅ (1)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BLUETV BOLLYWOOD ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV BOLLYWOOD ʜᴅ (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="BLUETV DRAMA 1 ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV DRAMA 1 ʜᴅ (1)
-https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="BLUETV DOKUMENTARFILM ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV DOKUMENTARFILM ʜᴅ (1)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="BLUETV FAMILIE 1 ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV FAMILIE 1 ʜᴅ (1)
+https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BLUETV FAMILIE 2 ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV FAMILIE 2 ʜᴅ (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BLUETV FANTASY ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV FANTASY ʜᴅ (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="BLUETV HISTORIE ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV HISTORIE ʜᴅ (1)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BLUETV HORROR 1 ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV HORROR 1 ʜᴅ (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BLUETV KOMODIE 1 ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV KOMODIE 1 ʜᴅ (1)
@@ -9840,6 +9856,8 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 #EXTINF:-1 tvg-name="BLUETV MARVEL ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV MARVEL ʜᴅ (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BLUETV MYSTERY 1 ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV MYSTERY 1 ʜᴅ (1)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="BLUETV SCIENCE-FICTION ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV SCIENCE-FICTION ʜᴅ (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BLUETV THRILLER 1 ʜᴅ (1)" tvg-logo="" group-title="Germany",BLUETV THRILLER 1 ʜᴅ (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
@@ -9855,6 +9873,8 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CARTOON NETWORK (BACKUP) (1)" tvg-logo="" group-title="Germany",CARTOON NETWORK (BACKUP) (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="CITY TV (1)" tvg-logo="" group-title="Germany",CITY TV (1)
+https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CLASSICA HD (1)" tvg-logo="" group-title="Germany",CLASSICA HD (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="COMEDY CENTRAL (1)" tvg-logo="" group-title="Germany",COMEDY CENTRAL (1)
@@ -9867,8 +9887,6 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DAZN 1 (MATCH TIME) HD (1)" tvg-logo="" group-title="Germany",DAZN 1 (MATCH TIME) HD (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="DAZN 1 FHD (1)" tvg-logo="" group-title="Germany",DAZN 1 FHD (1)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DAZN 1 HD (1)" tvg-logo="" group-title="Germany",DAZN 1 HD (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DAZN 10 (MATCH TIME) HD (1)" tvg-logo="" group-title="Germany",DAZN 10 (MATCH TIME) HD (1)
@@ -9963,8 +9981,6 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DEUTSCHE SINEMA (1)" tvg-logo="" group-title="Germany",DEUTSCHE SINEMA (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="DEUTSCHE SPORT (1)" tvg-logo="" group-title="Germany",DEUTSCHE SPORT (1)
-https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DISCOVERY (1)" tvg-logo="" group-title="Germany",DISCOVERY (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD (1)" tvg-logo="" group-title="Germany",DISCOVERY CHANNEL HD (1)
@@ -9979,8 +9995,6 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DISNEY JUNIOR (1)" tvg-logo="" group-title="Germany",DISNEY JUNIOR (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="DISNEY JUNIOR (BACKUP) (1)" tvg-logo="" group-title="Germany",DISNEY JUNIOR (BACKUP) (1)
-https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DK4 (1)" tvg-logo="" group-title="Germany",DK4 (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DMAX (1)" tvg-logo="" group-title="Germany",DMAX (1)
@@ -9993,6 +10007,8 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DR1 (1)" tvg-logo="" group-title="Germany",DR1 (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="DR2 (1)" tvg-logo="" group-title="Germany",DR2 (1)
+https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DW (1)" tvg-logo="" group-title="Germany",DW (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="EAGLE BOLLYWOOD HD (1)" tvg-logo="" group-title="Germany",EAGLE BOLLYWOOD HD (1)
@@ -10011,6 +10027,8 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/pla.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="EURONEWS GERMANY (1)" tvg-logo="" group-title="Germany",EURONEWS GERMANY (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD (1)" tvg-logo="" group-title="Germany",EUROSPORT 1 HD (1)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="EUROSPORT 1 HD (BACKUP) (1)" tvg-logo="" group-title="Germany",EUROSPORT 1 HD (BACKUP) (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="EUROSPORT 2 FHD (1)" tvg-logo="" group-title="Germany",EUROSPORT 2 FHD (1)
@@ -10027,6 +10045,10 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="FC BAYERN HD (1)" tvg-logo="" group-title="Germany",FC BAYERN HD (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="FC BAYERN TV (1)" tvg-logo="" group-title="Germany",FC BAYERN TV (1)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="FC BAYERN TV HD (1)" tvg-logo="" group-title="Germany",FC BAYERN TV HD (1)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="FEUERWEHRMANN SAM TV (1)" tvg-logo="" group-title="Germany",FEUERWEHRMANN SAM TV (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="FIX&FOXI (1)" tvg-logo="" group-title="Germany",FIX&FOXI (1)
@@ -10049,8 +10071,6 @@ https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="HR-FERNSEHEN HD (1)" tvg-logo="" group-title="Germany",HR-FERNSEHEN HD (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="HSE 24 TV (1)" tvg-logo="" group-title="Germany",HSE 24 TV (1)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ID INVESTIGATION DISCOVERY (1)" tvg-logo="" group-title="Germany",ID INVESTIGATION DISCOVERY (1)
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="JUKEBOX (1)" tvg-logo="" group-title="Germany",JUKEBOX (1)
@@ -10157,6 +10177,8 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="N24 DOKU HD (1)" tvg-logo="" group-title="Germany",N24 DOKU HD (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="NACHRICHTEN (1)" tvg-logo="" group-title="Germany",NACHRICHTEN (1)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="NAT GEO (1)" tvg-logo="" group-title="Germany",NAT GEO (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="NAT GEO WILD (1)" tvg-logo="" group-title="Germany",NAT GEO WILD (1)
@@ -10295,10 +10317,8 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="S. SPORT 5 HD (1)" tvg-logo="" group-title="Germany",S. SPORT 5 HD (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="S. SPORT 6 FHD (1)" tvg-logo="" group-title="Germany",S. SPORT 6 FHD (1)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="S. SPORT 7 HD (1)" tvg-logo="" group-title="Germany",S. SPORT 7 HD (1)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="S. SPORT 7 FHD (1)" tvg-logo="" group-title="Germany",S. SPORT 7 FHD (1)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="S. SPORT 8 HD (1)" tvg-logo="" group-title="Germany",S. SPORT 8 HD (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="S. SPORT 9 FHD (1)" tvg-logo="" group-title="Germany",S. SPORT 9 FHD (1)
@@ -10359,8 +10379,6 @@ https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3N
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY 24 (1)" tvg-logo="" group-title="Germany",SKY 24 (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="SKY ACTION (1)" tvg-logo="" group-title="Germany",SKY ACTION (1)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY ACTION HD (1)" tvg-logo="" group-title="Germany",SKY ACTION HD (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY ACTION HD+ (1)" tvg-logo="" group-title="Germany",SKY ACTION HD+ (1)
@@ -10375,8 +10393,6 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY BEST OF (1)" tvg-logo="" group-title="Germany",SKY BEST OF (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="SKY BEST OF HD (1)" tvg-logo="" group-title="Germany",SKY BEST OF HD (1)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY BEST OF HD+ (1)" tvg-logo="" group-title="Germany",SKY BEST OF HD+ (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY BOX ABENTEUER HD (1)" tvg-logo="" group-title="Germany",SKY BOX ABENTEUER HD (1)
@@ -10465,6 +10481,8 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 7 HD (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 7 HD (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="SKY BUNDESLIGA 8 HD (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA 8 HD (1)
+https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA1 (1)" tvg-logo="" group-title="Germany",SKY BUNDESLIGA1 (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY CINEMA ACTION HD (1)" tvg-logo="" group-title="Germany",SKY CINEMA ACTION HD (1)
@@ -10473,8 +10491,6 @@ https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY CINEMA BEST OF HD (1)" tvg-logo="" group-title="Germany",SKY CINEMA BEST OF HD (1)
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="SKY CINEMA BEST OF HD+ (1)" tvg-logo="" group-title="Germany",SKY CINEMA BEST OF HD+ (1)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY CINEMA CLASSICS HD (1)" tvg-logo="" group-title="Germany",SKY CINEMA CLASSICS HD (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY CINEMA CLASSICS HD+ (1)" tvg-logo="" group-title="Germany",SKY CINEMA CLASSICS HD+ (1)
@@ -10485,10 +10501,6 @@ https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3N
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY CINEMA FAMILY HEVC (1)" tvg-logo="" group-title="Germany",SKY CINEMA FAMILY HEVC (1)
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="SKY CINEMA FUN HD (1)" tvg-logo="" group-title="Germany",SKY CINEMA FUN HD (1)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="SKY CINEMA HITS (1)" tvg-logo="" group-title="Germany",SKY CINEMA HITS (1)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN +24 (1)" tvg-logo="" group-title="Germany",SKY CINEMA PREMIEREN +24 (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN +24 HD (1)" tvg-logo="" group-title="Germany",SKY CINEMA PREMIEREN +24 HD (1)
@@ -10633,6 +10645,8 @@ https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3N
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SPORT1 HD (1)" tvg-logo="" group-title="Germany",SPORT1 HD (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="SPORT1+ FHD (1)" tvg-logo="" group-title="Germany",SPORT1+ FHD (1)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SPORT1+ HD (1)" tvg-logo="" group-title="Germany",SPORT1+ HD (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SR FERNSEHEN HD (1)" tvg-logo="" group-title="Germany",SR FERNSEHEN HD (1)
@@ -10737,6 +10751,8 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="V FILM PREMIERE (1)" tvg-logo="" group-title="Germany",V FILM PREMIERE (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="V SERIES (1)" tvg-logo="" group-title="Germany",V SERIES (1)
+https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="V SPORT GOLF (1)" tvg-logo="" group-title="Germany",V SPORT GOLF (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="VH1 CLASSIC (1)" tvg-logo="" group-title="Germany",VH1 CLASSIC (1)
@@ -11115,10 +11131,10 @@ https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3N
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TELE ONE 2 HD (1)" tvg-logo="" group-title="Albania",TELE ONE 2 HD (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="TELE ONE 3 HD (1)" tvg-logo="" group-title="Albania",TELE ONE 3 HD (1)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TELE ONE 4 HD (1)" tvg-logo="" group-title="Albania",TELE ONE 4 HD (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="TELE ONE 5 HD (1)" tvg-logo="" group-title="Albania",TELE ONE 5 HD (1)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TELE ONE 6 HD (1)" tvg-logo="" group-title="Albania",TELE ONE 6 HD (1)
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TETOVA TV (1)" tvg-logo="" group-title="Albania",TETOVA TV (1)
@@ -11488,6 +11504,10 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 #EXTINF:-1 tvg-name="ALGERIA 4 (1)" tvg-logo="" group-title="Arabia",ALGERIA 4 (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ALGERIA 5 (1)" tvg-logo="" group-title="Arabia",ALGERIA 5 (1)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="ALGERIA A3 HD (1)" tvg-logo="" group-title="Arabia",ALGERIA A3 HD (1)
+https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="ALGERIA BEUR (1)" tvg-logo="" group-title="Arabia",ALGERIA BEUR (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ALGERIAA (1)" tvg-logo="" group-title="Arabia",ALGERIAA (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
@@ -12621,6 +12641,10 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="KSA|IEN DOROS 02 (1)" tvg-logo="" group-title="Arabia",KSA|IEN DOROS 02 (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="KSA|IEN DOROS 03 (1)" tvg-logo="" group-title="Arabia",KSA|IEN DOROS 03 (1)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="KSA|IEN DOROS 04 (1)" tvg-logo="" group-title="Arabia",KSA|IEN DOROS 04 (1)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="KSA|IEN DOROS 05 (1)" tvg-logo="" group-title="Arabia",KSA|IEN DOROS 05 (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="KSA|IEN DOROS 06 (1)" tvg-logo="" group-title="Arabia",KSA|IEN DOROS 06 (1)
@@ -12790,6 +12814,8 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 #EXTINF:-1 tvg-name="MBC IRAQ (FHD) (1)" tvg-logo="" group-title="Arabia",MBC IRAQ (FHD) (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="MBC MASR (1)" tvg-logo="" group-title="Arabia",MBC MASR (1)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="MBC MASR 1 (FHD) (1)" tvg-logo="" group-title="Arabia",MBC MASR 1 (FHD) (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="MBC MASR 1 USA (FHD) (1)" tvg-logo="" group-title="Arabia",MBC MASR 1 USA (FHD) (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
@@ -13359,8 +13385,6 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="STUDIO UNIVERSAL (1)" tvg-logo="" group-title="Arabia",STUDIO UNIVERSAL (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="SYFY (1)" tvg-logo="" group-title="Arabia",SYFY (1)
-https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SYRIA BALADNA TV (1)" tvg-logo="" group-title="Arabia",SYRIA BALADNA TV (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SYRIA DRAMA (1)" tvg-logo="" group-title="Arabia",SYRIA DRAMA (1)
@@ -13911,6 +13935,8 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BET (1)" tvg-logo="" group-title="France",BET (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="BFM TV HD (1)" tvg-logo="" group-title="France",BFM TV HD (1)
+https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BOING (1)" tvg-logo="" group-title="France",BOING (1)
 https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BOOMERANG (1)" tvg-logo="" group-title="France",BOOMERANG (1)
@@ -13979,6 +14005,8 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CINE+ EMOTION FHD (1)" tvg-logo="" group-title="France",CINE+ EMOTION FHD (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="CINE+ FAMIZ FHD (1)" tvg-logo="" group-title="France",CINE+ FAMIZ FHD (1)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CINE+ FRISSON FHD (1)" tvg-logo="" group-title="France",CINE+ FRISSON FHD (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CINE+ FX HD (1)" tvg-logo="" group-title="France",CINE+ FX HD (1)
@@ -14153,6 +14181,10 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="MEZZO LIVE HD (1)" tvg-logo="" group-title="France",MEZZO LIVE HD (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="MEZZO LIVE SD (1)" tvg-logo="" group-title="France",MEZZO LIVE SD (1)
+https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="MEZZO SD (1)" tvg-logo="" group-title="France",MEZZO SD (1)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="MEZZO TV (1)" tvg-logo="" group-title="France",MEZZO TV (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="MOTOSPORT TV (1)" tvg-logo="" group-title="France",MOTOSPORT TV (1)
@@ -14163,14 +14195,10 @@ https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3N
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="MULTISPORTS 1 HD (1)" tvg-logo="" group-title="France",MULTISPORTS 1 HD (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="MULTISPORTS 2 HD (1)" tvg-logo="" group-title="France",MULTISPORTS 2 HD (1)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="MULTISPORTS 3 HD (1)" tvg-logo="" group-title="France",MULTISPORTS 3 HD (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="MULTISPORTS 4 HD (1)" tvg-logo="" group-title="France",MULTISPORTS 4 HD (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="MULTISPORTS 5 HD (1)" tvg-logo="" group-title="France",MULTISPORTS 5 HD (1)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="MY CUISINE (1)" tvg-logo="" group-title="France",MY CUISINE (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="NATIONAL GEO WILD (1)" tvg-logo="" group-title="France",NATIONAL GEO WILD (1)
@@ -14249,8 +14277,6 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RMC SPORT 1 HD (1)" tvg-logo="" group-title="France",RMC SPORT 1 HD (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="RMC SPORT 1 UHD (1)" tvg-logo="" group-title="France",RMC SPORT 1 UHD (1)
-https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RMC SPORT 2 (1)" tvg-logo="" group-title="France",RMC SPORT 2 (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RMC SPORT 2 (BACKUP) (1)" tvg-logo="" group-title="France",RMC SPORT 2 (BACKUP) (1)
@@ -14260,6 +14286,10 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 #EXTINF:-1 tvg-name="RMC SPORT 2 FHD (1)" tvg-logo="" group-title="France",RMC SPORT 2 FHD (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RMC SPORT 2 HD (1)" tvg-logo="" group-title="France",RMC SPORT 2 HD (1)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="RMC SPORT 3 (1)" tvg-logo="" group-title="France",RMC SPORT 3 (1)
+https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="RMC SPORT 3 (BACKUP) (1)" tvg-logo="" group-title="France",RMC SPORT 3 (BACKUP) (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="RMC SPORT 3 ACCESS HD (1)" tvg-logo="" group-title="France",RMC SPORT 3 ACCESS HD (1)
 https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
@@ -14325,8 +14355,6 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SERIE CLUB (1)" tvg-logo="" group-title="France",SERIE CLUB (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="SPORT EN FRANCE (1)" tvg-logo="" group-title="France",SPORT EN FRANCE (1)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SPORT EN FRANCE FHD (1)" tvg-logo="" group-title="France",SPORT EN FRANCE FHD (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SYFY (1)" tvg-logo="" group-title="France",SYFY (1)
@@ -14427,8 +14455,6 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CANAL+ SPORT 3 (1)" tvg-logo="" group-title="Poland",CANAL+ SPORT 3 (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="CANAL+ SPORT 4 (1)" tvg-logo="" group-title="Poland",CANAL+ SPORT 4 (1)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CARTOON NETWORK HD (1)" tvg-logo="" group-title="Poland",CARTOON NETWORK HD (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CBS EUROPA HD (1)" tvg-logo="" group-title="Poland",CBS EUROPA HD (1)
@@ -14789,8 +14815,6 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="AXN HD (1)" tvg-logo="" group-title="Portugal",AXN HD (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="AXN MOVIES HD (1)" tvg-logo="" group-title="Portugal",AXN MOVIES HD (1)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="AXN WHITE HD (1)" tvg-logo="" group-title="Portugal",AXN WHITE HD (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BABY TV (1)" tvg-logo="" group-title="Portugal",BABY TV (1)
@@ -15021,8 +15045,6 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TV GLOBO (1)" tvg-logo="" group-title="Portugal",TV GLOBO (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="TV GLOBO NOW (1)" tvg-logo="" group-title="Portugal",TV GLOBO NOW (1)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TV RECORD (1)" tvg-logo="" group-title="Portugal",TV RECORD (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TVCINE ACTION HD (1)" tvg-logo="" group-title="Portugal",TVCINE ACTION HD (1)
@@ -15079,8 +15101,6 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CBS REALITY (1)" tvg-logo="" group-title="Romania",CBS REALITY (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="CINEMARATON HD (1)" tvg-logo="" group-title="Romania",CINEMARATON HD (1)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CINEMAX 2 HD (1)" tvg-logo="" group-title="Romania",CINEMAX 2 HD (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="CINEMAX HD (1)" tvg-logo="" group-title="Romania",CINEMAX HD (1)
@@ -15215,6 +15235,8 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TELEKOM SPORT 4 HD (1)" tvg-logo="" group-title="Romania",TELEKOM SPORT 4 HD (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="TLC (1)" tvg-logo="" group-title="Romania",TLC (1)
+https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TNT HD (1)" tvg-logo="" group-title="Romania",TNT HD (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TV 1000 (1)" tvg-logo="" group-title="Romania",TV 1000 (1)
@@ -15233,8 +15255,6 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="VIASAT NATURE (1)" tvg-logo="" group-title="Romania",VIASAT NATURE (1)
 https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name=".BLACK (1)" tvg-logo="" group-title="Russia",.BLACK (1)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name=".RED HD (1)" tvg-logo="" group-title="Russia",.RED HD (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name=".SCI‑FI (1)" tvg-logo="" group-title="Russia",.SCI‑FI (1)
@@ -15257,8 +15277,6 @@ https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3N
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ANIMAL PLANET (1)" tvg-logo="" group-title="Russia",ANIMAL PLANET (1)
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="ANIMAL PLANET HD (1)" tvg-logo="" group-title="Russia",ANIMAL PLANET HD (1)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BBC WORLD NEWS (1)" tvg-logo="" group-title="Russia",BBC WORLD NEWS (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="BOLLYWOOD HD (1)" tvg-logo="" group-title="Russia",BOLLYWOOD HD (1)
@@ -15279,8 +15297,6 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DA VINCI (1)" tvg-logo="" group-title="Russia",DA VINCI (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD (1)" tvg-logo="" group-title="Russia",DISCOVERY CHANNEL HD (1)
-https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE (1)" tvg-logo="" group-title="Russia",DISCOVERY SCIENCE (1)
 https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DORAMA (1)" tvg-logo="" group-title="Russia",DORAMA (1)
@@ -15331,8 +15347,6 @@ https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3N
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="LEOMAX24 (1)" tvg-logo="" group-title="Russia",LEOMAX24 (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="MCM TOP (1)" tvg-logo="" group-title="Russia",MCM TOP (1)
-https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="MEGAHIT HD (1)" tvg-logo="" group-title="Russia",MEGAHIT HD (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="MEZZO (1)" tvg-logo="" group-title="Russia",MEZZO (1)
@@ -15833,8 +15847,6 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="MOVISTAR SERIESMANIA HD (1)" tvg-logo="" group-title="Spain",MOVISTAR SERIESMANIA HD (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="MTV ESPANA (1)" tvg-logo="" group-title="Spain",MTV ESPANA (1)
-https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="NAT GEO WILD HD (1)" tvg-logo="" group-title="Spain",NAT GEO WILD HD (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD (1)" tvg-logo="" group-title="Spain",NATIONAL GEOGRAPHIC HD (1)
@@ -15999,10 +16011,16 @@ https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="4K TR: S NEMA 1002 HD (1)" tvg-logo="" group-title="Turkey",4K TR: S NEMA 1002 HD (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="4K TR: S NEMA A LE 2 HD (1)" tvg-logo="" group-title="Turkey",4K TR: S NEMA A LE 2 HD (1)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="4K TR: S NEMA A LE HD (1)" tvg-logo="" group-title="Turkey",4K TR: S NEMA A LE HD (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="4K TR: S NEMA AKS YON 2 HD (1)" tvg-logo="" group-title="Turkey",4K TR: S NEMA AKS YON 2 HD (1)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="4K TR: S NEMA KOMED HD (1)" tvg-logo="" group-title="Turkey",4K TR: S NEMA KOMED HD (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="4K TR: S NEMA TV 1001 HD (1)" tvg-logo="" group-title="Turkey",4K TR: S NEMA TV 1001 HD (1)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="4K TR: S NEMA TV 2 HD (1)" tvg-logo="" group-title="Turkey",4K TR: S NEMA TV 2 HD (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="4K TR: S NEMA TV AKS YON HD (1)" tvg-logo="" group-title="Turkey",4K TR: S NEMA TV AKS YON HD (1)
@@ -16111,8 +16129,6 @@ https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3N
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ADIYAMAN MERCAN TV (1)" tvg-logo="" group-title="Turkey",ADIYAMAN MERCAN TV (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="AFYON T RK TV (1)" tvg-logo="" group-title="Turkey",AFYON T RK TV (1)
-https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="AKIT TV (1)" tvg-logo="" group-title="Turkey",AKIT TV (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="AKSARAY KANAL 68 (1)" tvg-logo="" group-title="Turkey",AKSARAY KANAL 68 (1)
@@ -16133,6 +16149,8 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ANGRY BIRDS (1)" tvg-logo="" group-title="Turkey",ANGRY BIRDS (1)
 https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD (1)" tvg-logo="" group-title="Turkey",ANIMAL PLANET HD (1)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ANIMATION 1 HD (1)" tvg-logo="" group-title="Turkey",ANIMATION 1 HD (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ANIMAUX (1)" tvg-logo="" group-title="Turkey",ANIMAUX (1)
@@ -16483,12 +16501,12 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DREAM SAVAS (1)" tvg-logo="" group-title="Turkey",DREAM SAVAS (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="DREAM TURK (1)" tvg-logo="" group-title="Turkey",DREAM TURK (1)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DREAM TURK (BACKUP) (1)" tvg-logo="" group-title="Turkey",DREAM TURK (BACKUP) (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DREAM TV (1)" tvg-logo="" group-title="Turkey",DREAM TV (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="DREAM WESTERN (1)" tvg-logo="" group-title="Turkey",DREAM WESTERN (1)
+https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="DUCU BOX (1)" tvg-logo="" group-title="Turkey",DUCU BOX (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="EDIRNE ETV (1)" tvg-logo="" group-title="Turkey",EDIRNE ETV (1)
@@ -16907,8 +16925,6 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="S SPORT+3 MAC SAATI (1)" tvg-logo="" group-title="Turkey",S SPORT+3 MAC SAATI (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="S SPORT+4 MAC SAATI (1)" tvg-logo="" group-title="Turkey",S SPORT+4 MAC SAATI (1)
-https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="S SPORT+5 MAC SAATI (1)" tvg-logo="" group-title="Turkey",S SPORT+5 MAC SAATI (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="S ZC SZC TV (1)" tvg-logo="" group-title="Turkey",S ZC SZC TV (1)
@@ -17041,6 +17057,8 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TABII SPOR 6 HD (1)" tvg-logo="" group-title="Turkey",TABII SPOR 6 HD (1)
 https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="TABII SPOR 6 UHD (1)" tvg-logo="" group-title="Turkey",TABII SPOR 6 UHD (1)
+https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TABII SPOR HD (1)" tvg-logo="" group-title="Turkey",TABII SPOR HD (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TABII SPOR SD (1)" tvg-logo="" group-title="Turkey",TABII SPOR SD (1)
@@ -17086,6 +17104,8 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 #EXTINF:-1 tvg-name="TIVIBUSPOR 2 HD (1)" tvg-logo="" group-title="Turkey",TIVIBUSPOR 2 HD (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TIVIBUSPOR 3 FHD (1)" tvg-logo="" group-title="Turkey",TIVIBUSPOR 3 FHD (1)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="TIVIBUSPOR 3 HD (1)" tvg-logo="" group-title="Turkey",TIVIBUSPOR 3 HD (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TIVIBUSPOR SPOR HD (1)" tvg-logo="" group-title="Turkey",TIVIBUSPOR SPOR HD (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
@@ -17209,6 +17229,8 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ULTRA BILIMKURGU (1)" tvg-logo="" group-title="Turkey",ULTRA BILIMKURGU (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="ULTRA IMBD (1)" tvg-logo="" group-title="Turkey",ULTRA IMBD (1)
+https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ULTRA KEMAL SUNAL (1)" tvg-logo="" group-title="Turkey",ULTRA KEMAL SUNAL (1)
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ULTRA KOMEDI (1)" tvg-logo="" group-title="Turkey",ULTRA KOMEDI (1)
@@ -17275,8 +17297,6 @@ https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="AL JAZEERA HD (1)" tvg-logo="" group-title="United Kingdom",AL JAZEERA HD (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-name="ANIMAL PLANET (1)" tvg-logo="" group-title="United Kingdom",ANIMAL PLANET (1)
-https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ARIRANG TV HD (1)" tvg-logo="" group-title="United Kingdom",ARIRANG TV HD (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="ARISE NEWS (1)" tvg-logo="" group-title="United Kingdom",ARISE NEWS (1)
@@ -17729,6 +17749,8 @@ https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY CINEMA DRAMA (1)" tvg-logo="" group-title="United Kingdom",SKY CINEMA DRAMA (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="SKY CINEMA FAMILY (1)" tvg-logo="" group-title="United Kingdom",SKY CINEMA FAMILY (1)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY CINEMA GREATS (1)" tvg-logo="" group-title="United Kingdom",SKY CINEMA GREATS (1)
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="SKY CINEMA HITS (1)" tvg-logo="" group-title="United Kingdom",SKY CINEMA HITS (1)
@@ -17831,6 +17853,8 @@ https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3
 https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="THE BOX (1)" tvg-logo="" group-title="United Kingdom",THE BOX (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-name="THE CRAFT STORE (1)" tvg-logo="" group-title="United Kingdom",THE CRAFT STORE (1)
+https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="THE PET COLLECTIVE (1)" tvg-logo="" group-title="United Kingdom",THE PET COLLECTIVE (1)
 https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTQ3|User-Agent=VAVOO/2.6
 #EXTINF:-1 tvg-name="TINY POP (1)" tvg-logo="" group-title="United Kingdom",TINY POP (1)
