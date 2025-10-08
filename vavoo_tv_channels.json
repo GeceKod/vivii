@@ -54,12 +54,6 @@
     "logo": ""
   },
   {
-    "name": "ATV 2 (7)",
-    "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Germany",
-    "logo": ""
-  },
-  {
     "name": "AUGSBURG (7)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
@@ -234,20 +228,38 @@
     "logo": ""
   },
   {
-    "name": "DYN SPORT 7 (7)",
+    "name": "DYN SPORT 10 (7)",
+    "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "DYN SPORT 2 (7)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "DYN SPORT 3 (7)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "DYN SPORT 6 (7)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "DYN SPORT 8 (7)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
     "logo": ""
   },
   {
     "name": "E! ENTERTAINMENT (7)",
     "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Germany",
-    "logo": ""
-  },
-  {
-    "name": "ESPORTS 1 [LIVE DURING EVENTS ONLY] (7)",
-    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
     "logo": ""
   },
@@ -320,6 +332,12 @@
   {
     "name": "HSE 24 TREND (7)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "INDIANA JONES CHANNEL (7)",
+    "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
     "logo": ""
   },
@@ -966,6 +984,12 @@
     "logo": ""
   },
   {
+    "name": "SKY CINEMA ACTION (7)",
+    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
     "name": "SKY CINEMA BEST (7)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
@@ -1093,6 +1117,12 @@
   },
   {
     "name": "SKY POPCORN SELECT 4 (7)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "SKY POPCORN SELECT 5 (7)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
     "logo": ""
@@ -1620,6 +1650,12 @@
     "logo": ""
   },
   {
+    "name": "21 POPULLORE (7)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Albania",
+    "logo": ""
+  },
+  {
     "name": "24 KITCHEN (7)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Albania",
@@ -1724,6 +1760,12 @@
   {
     "name": "BOOMERANG (7)",
     "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Albania",
+    "logo": ""
+  },
+  {
+    "name": "C1 CHANNEL (7)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Albania",
     "logo": ""
   },
@@ -3510,6 +3552,12 @@
     "logo": ""
   },
   {
+    "name": "PINK (7)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Balkans",
+    "logo": ""
+  },
+  {
     "name": "PINK 1 (7)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Balkans",
@@ -4776,6 +4824,12 @@
     "logo": ""
   },
   {
+    "name": "AMAZON PRIME 1 [LIVE DURING EVENTS ONLY] (7)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
     "name": "AMAZON PRIME 2 [LIVE DURING EVENTS ONLY] (7)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
@@ -5088,6 +5142,12 @@
     "logo": ""
   },
   {
+    "name": "CANAL PLAY 12 (7)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
     "name": "CANAL PLAY 13 (7)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
@@ -5095,6 +5155,12 @@
   },
   {
     "name": "CANAL PLAY 14 (7)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
+    "name": "CANAL PLAY 15 (7)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
     "logo": ""
@@ -5322,14 +5388,14 @@
     "logo": ""
   },
   {
-    "name": "CANAL+ TOP 14 (7)",
-    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "name": "CARTOON NETWORK FHD (7)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
     "logo": ""
   },
   {
-    "name": "CARTOON NETWORK FHD (7)",
-    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "name": "CGTN (7)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
     "logo": ""
   },
@@ -5515,12 +5581,6 @@
   },
   {
     "name": "DISCOVERY FAMILY (7)",
-    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "France",
-    "logo": ""
-  },
-  {
-    "name": "DISCOVERY INVESTIGATION (7)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
     "logo": ""
@@ -6144,12 +6204,6 @@
     "logo": ""
   },
   {
-    "name": "OCS MAX HD (7)",
-    "url": "https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "France",
-    "logo": ""
-  },
-  {
     "name": "PARAMOUNT CHANNEL (7)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
@@ -6270,18 +6324,6 @@
     "logo": ""
   },
   {
-    "name": "RAKUTEN SERIE CRIME (7)",
-    "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "France",
-    "logo": ""
-  },
-  {
-    "name": "RAKUTEN SPOTLIGHT FRANCE (7)",
-    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "France",
-    "logo": ""
-  },
-  {
     "name": "RAKUTEN TV (7)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
@@ -6314,12 +6356,6 @@
   {
     "name": "RAKUTEN TV FILMS FRANÇAIS (7)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "France",
-    "logo": ""
-  },
-  {
-    "name": "RAKUTEN TV FILMS THRILLER (7)",
-    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
     "logo": ""
   },
@@ -6548,6 +6584,12 @@
   {
     "name": "SERIE CLUB HD (7)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
+    "name": "SUNDANCE TV (7)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
     "logo": ""
   },
@@ -7008,6 +7050,12 @@
     "logo": ""
   },
   {
+    "name": "HISTORY (7)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Italy",
+    "logo": ""
+  },
+  {
     "name": "ICARO TV (7)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Italy",
@@ -7172,12 +7220,6 @@
   {
     "name": "RAI 3 (7)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Italy",
-    "logo": ""
-  },
-  {
-    "name": "RAI 4 (7)",
-    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Italy",
     "logo": ""
   },
@@ -7380,6 +7422,12 @@
     "logo": ""
   },
   {
+    "name": "SKY CINEMA DUE (7)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Italy",
+    "logo": ""
+  },
+  {
     "name": "SKY CINEMA DUE +24 (7)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Italy",
@@ -7392,14 +7440,14 @@
     "logo": ""
   },
   {
-    "name": "SKY CINEMA SUSPENSE (7)",
-    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "name": "SKY CINEMA ROMANCE (7)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Italy",
     "logo": ""
   },
   {
-    "name": "SKY CINEMA UNO (7)",
-    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "name": "SKY CINEMA SUSPENSE (7)",
+    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Italy",
     "logo": ""
   },
@@ -7987,6 +8035,12 @@
   },
   {
     "name": "MTV HITS (7)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Netherlands",
+    "logo": ""
+  },
+  {
+    "name": "MTV LIVE (7)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Netherlands",
     "logo": ""
@@ -8618,12 +8672,6 @@
   {
     "name": "CREDO (7)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Romania",
-    "logo": ""
-  },
-  {
-    "name": "CRIME & INVESTIGATION (7)",
-    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Romania",
     "logo": ""
   },
@@ -9648,12 +9696,6 @@
     "logo": ""
   },
   {
-    "name": "HOME TB (7)",
-    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Russia",
-    "logo": ""
-  },
-  {
     "name": "HTB (7)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Russia",
@@ -9960,6 +10002,12 @@
     "logo": ""
   },
   {
+    "name": "MTV YO! (7)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Russia",
+    "logo": ""
+  },
+  {
     "name": "MULT TV (7)",
     "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Russia",
@@ -10046,12 +10094,6 @@
   {
     "name": "ONE.BY (7)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Russia",
-    "logo": ""
-  },
-  {
-    "name": "ONE.BY RUS (7)",
-    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Russia",
     "logo": ""
   },
@@ -10404,12 +10446,6 @@
     "logo": ""
   },
   {
-    "name": "TV 1000 PYCCKOE (7)",
-    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Russia",
-    "logo": ""
-  },
-  {
     "name": "TV CENTER (7)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Russia",
@@ -10692,6 +10728,12 @@
     "logo": ""
   },
   {
+    "name": "НТВ МИР (7)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Russia",
+    "logo": ""
+  },
+  {
     "name": "НТВ СЕРИАЛ (7)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Russia",
@@ -10748,12 +10790,6 @@
   {
     "name": "РОССИЯ-1 (7)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Russia",
-    "logo": ""
-  },
-  {
-    "name": "РОССИЯ-К (7)",
-    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Russia",
     "logo": ""
   },
@@ -11491,6 +11527,12 @@
   },
   {
     "name": "FB TV (7)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Turkey",
+    "logo": ""
+  },
+  {
+    "name": "FILMBOX AKSIYON (7)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Turkey",
     "logo": ""
@@ -13770,6 +13812,12 @@
     "logo": ""
   },
   {
+    "name": "TNT SPORTS 4 (7)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "United Kingdom",
+    "logo": ""
+  },
+  {
     "name": "TNT SPORTS ESPN (7)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "United Kingdom",
@@ -13808,12 +13856,6 @@
   {
     "name": "UTV IRELAND (7)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "United Kingdom",
-    "logo": ""
-  },
-  {
-    "name": "VH1 (7)",
-    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "United Kingdom",
     "logo": ""
   },
@@ -14317,6 +14359,12 @@
   },
   {
     "name": "SKY CINEMA DIVERSITY (6)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "SKY HITS (6)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
     "logo": ""
@@ -15438,6 +15486,12 @@
     "logo": ""
   },
   {
+    "name": "FOX (6)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany ➾ Movie",
+    "logo": ""
+  },
+  {
     "name": "HEIMAT KANAL (6)",
     "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany ➾ Movie",
@@ -15446,6 +15500,12 @@
   {
     "name": "KINOWELT TV (6)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany ➾ Movie",
+    "logo": ""
+  },
+  {
+    "name": "MOVIES CH (6)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany ➾ Movie",
     "logo": ""
   },
@@ -15578,6 +15638,12 @@
   {
     "name": "SKY CINEMA SPECIAL (6)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany ➾ Movie",
+    "logo": ""
+  },
+  {
+    "name": "SKY CINEMA THRILLER (6)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany ➾ Movie",
     "logo": ""
   },
@@ -15931,6 +15997,12 @@
   },
   {
     "name": "DAZN 2 (6)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany ➾ Sports",
+    "logo": ""
+  },
+  {
+    "name": "DAZN FAST+ (6)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany ➾ Sports",
     "logo": ""
@@ -16465,12 +16537,6 @@
   },
   {
     "name": "DAFRAH TV (6)",
-    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Albania",
-    "logo": ""
-  },
-  {
-    "name": "DARK ASHKALI (6)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Albania",
     "logo": ""
@@ -17209,6 +17275,12 @@
   },
   {
     "name": "KHALIJ TV (6)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Albania",
+    "logo": ""
+  },
+  {
+    "name": "KS COMEDY (6)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Albania",
     "logo": ""
@@ -19728,6 +19800,12 @@
     "logo": ""
   },
   {
+    "name": "NOSTALGIA (6)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Bulgaria ➾ LifeStyle",
+    "logo": ""
+  },
+  {
     "name": "NOVA TV (6)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Bulgaria ➾ LifeStyle",
@@ -19754,6 +19832,12 @@
   {
     "name": "ROMA TV (6)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Bulgaria ➾ LifeStyle",
+    "logo": ""
+  },
+  {
+    "name": "THE WORLD (6)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Bulgaria ➾ LifeStyle",
     "logo": ""
   },
@@ -20904,6 +20988,12 @@
     "logo": ""
   },
   {
+    "name": "24 ESPAÑOL (6)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
     "name": "3 (6)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
@@ -21078,12 +21168,6 @@
     "logo": ""
   },
   {
-    "name": "CANALPLAY 11 (6)",
-    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "France",
-    "logo": ""
-  },
-  {
     "name": "CANALPLAY 12 (6)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
@@ -21146,6 +21230,12 @@
   {
     "name": "CINE+ FX (6)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
+    "name": "DAZN 1 LEAUGE 1 (6)",
+    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
     "logo": ""
   },
@@ -21494,6 +21584,12 @@
   {
     "name": "PLANETE+ CI (6)",
     "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France ➾ Documentary",
+    "logo": ""
+  },
+  {
+    "name": "SCIENCE & VIE TV (6)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France ➾ Documentary",
     "logo": ""
   },
@@ -21884,6 +21980,12 @@
   {
     "name": "FASHION TV FASHION MAGAZINES (6)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France ➾ LifeStyle",
+    "logo": ""
+  },
+  {
+    "name": "FASHION TV PARIS FASHION NEWS (6)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France ➾ LifeStyle",
     "logo": ""
   },
@@ -29436,6 +29538,12 @@
     "logo": ""
   },
   {
+    "name": "CINE 1 (6)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Turkey ➾ Movie",
+    "logo": ""
+  },
+  {
     "name": "DIZISMART MAX (6)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Turkey ➾ Movie",
@@ -30036,6 +30144,18 @@
     "logo": ""
   },
   {
+    "name": "A&E HD (1)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "AMAZON PRIME HD (1)",
+    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
     "name": "ANIMAL PLANET HD (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
@@ -30252,12 +30372,6 @@
     "logo": ""
   },
   {
-    "name": "BLUETV MARVEL ʜᴅ (1)",
-    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Germany",
-    "logo": ""
-  },
-  {
     "name": "BLUETV MYSTERY 1 ʜᴅ (1)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
@@ -30272,6 +30386,12 @@
   {
     "name": "BLUETV THRILLER 1 ʜᴅ (1)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "BOOMERANG (1)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
     "logo": ""
   },
@@ -30360,6 +30480,12 @@
     "logo": ""
   },
   {
+    "name": "DAZN 10 (MATCH TIME) HD (1)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
     "name": "DAZN 11 (MATCH TIME) HD (1)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
@@ -30416,6 +30542,18 @@
   {
     "name": "DAZN 2 FHD (1)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "DAZN 2 HD (1)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "DAZN 3 (MATCH TIME) HD (1)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
     "logo": ""
   },
@@ -30660,12 +30798,6 @@
     "logo": ""
   },
   {
-    "name": "DISNEY JUNIOR (1)",
-    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Germany",
-    "logo": ""
-  },
-  {
     "name": "DISNEY JUNIOR (BACKUP) (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
@@ -30686,6 +30818,12 @@
   {
     "name": "DMAX HD+ (1)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "DOKUMENTATION (1)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
     "logo": ""
   },
@@ -30811,6 +30949,12 @@
   },
   {
     "name": "FC BAYERN HD (1)",
+    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "FC BAYERN TV (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
     "logo": ""
@@ -30968,6 +31112,12 @@
   {
     "name": "KINDERM RCHEN 1 (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "KINDERM RCHEN 2 (1)",
+    "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
     "logo": ""
   },
@@ -31183,6 +31333,12 @@
   },
   {
     "name": "N-TV HD (1)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "N-TV HD+ (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
     "logo": ""
@@ -31566,6 +31722,12 @@
     "logo": ""
   },
   {
+    "name": "S. SPORT 11 FHD (1)",
+    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
     "name": "S. SPORT 11 HD (1)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
@@ -31830,6 +31992,12 @@
     "logo": ""
   },
   {
+    "name": "SKY ACTION (1)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
     "name": "SKY ACTION HD (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
@@ -31874,6 +32042,12 @@
   {
     "name": "SKY BEST OF HD (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "SKY BEST OF HD+ (1)",
+    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
     "logo": ""
   },
@@ -32102,6 +32276,12 @@
   {
     "name": "SKY BOX WESTERN HD (1)",
     "url": "https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Germany",
+    "logo": ""
+  },
+  {
+    "name": "SKY BUNDESLIGA 10 HD (1)",
+    "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Germany",
     "logo": ""
   },
@@ -33150,6 +33330,12 @@
     "logo": ""
   },
   {
+    "name": "ALAM (360P) [NOT 24/7] (1)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Albania",
+    "logo": ""
+  },
+  {
     "name": "ALB ISLAM (1)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Albania",
@@ -33506,6 +33692,18 @@
   {
     "name": "JAZEERA DOCUMENTARY (270P) [GEO-BLOCKED] (BACKUP) (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Albania",
+    "logo": ""
+  },
+  {
+    "name": "JAZEERA MUBASHER (FHD) (1)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Albania",
+    "logo": ""
+  },
+  {
+    "name": "JAZEERA MUBASHER (FHD) (BACKUP) (1)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Albania",
     "logo": ""
   },
@@ -34406,6 +34604,12 @@
   {
     "name": "2M TNT (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Arabia",
+    "logo": ""
+  },
+  {
+    "name": "5 SATELITAL (1)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Arabia",
     "logo": ""
   },
@@ -36462,6 +36666,12 @@
     "logo": ""
   },
   {
+    "name": "BEIN SPORTS 3 (1)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Arabia",
+    "logo": ""
+  },
+  {
     "name": "BEIN SPORTS 3 (BACKUP) (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Arabia",
@@ -36734,6 +36944,12 @@
   {
     "name": "BEIN SPORTS 6 HQ (1)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Arabia",
+    "logo": ""
+  },
+  {
+    "name": "BEIN SPORTS 6 SD (1)",
+    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Arabia",
     "logo": ""
   },
@@ -37122,12 +37338,6 @@
     "logo": ""
   },
   {
-    "name": "BEIN SPORTS NBA HD (1)",
-    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Arabia",
-    "logo": ""
-  },
-  {
     "name": "BEIN SPORTS NEWS HD (1)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Arabia",
@@ -37250,12 +37460,6 @@
   {
     "name": "BEINSPORT AR 4 (1)",
     "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Arabia",
-    "logo": ""
-  },
-  {
-    "name": "BEINSPORT AR 5 (1)",
-    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Arabia",
     "logo": ""
   },
@@ -37585,6 +37789,12 @@
   },
   {
     "name": "CANAL PROVINCIAL (1)",
+    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Arabia",
+    "logo": ""
+  },
+  {
+    "name": "CANAL RURAL (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Arabia",
     "logo": ""
@@ -38802,6 +39012,12 @@
     "logo": ""
   },
   {
+    "name": "LIKE GECKO) CHROME/92.0.4515.131 SAFARI/537.36 (1)",
+    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Arabia",
+    "logo": ""
+  },
+  {
     "name": "LIKE GECKO) MOBILE/15E148 (1)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Arabia",
@@ -39476,6 +39692,12 @@
   {
     "name": "NAT GEO HD (1)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Arabia",
+    "logo": ""
+  },
+  {
+    "name": "NAT GEO WILD (1)",
+    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Arabia",
     "logo": ""
   },
@@ -40248,6 +40470,18 @@
     "logo": ""
   },
   {
+    "name": "SAT 7 ARABIC (1)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Arabia",
+    "logo": ""
+  },
+  {
+    "name": "SAT 7 ARABIC (240P) (1)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Arabia",
+    "logo": ""
+  },
+  {
     "name": "SAT 7 KIDS (FHD) (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Arabia",
@@ -40698,18 +40932,6 @@
     "logo": ""
   },
   {
-    "name": "SOURCE1 : ♣♦♣♦♣♦♣--BEIN SPORT BARCA HD--♣♦♣♦♣♦♣ (1)",
-    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Arabia",
-    "logo": ""
-  },
-  {
-    "name": "SOURCE1 : ♣♦♣♦♣♦♣--BEIN SPORT INTER--♣♦♣♦♣♦♣ (1)",
-    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Arabia",
-    "logo": ""
-  },
-  {
     "name": "SOURCE1 : ♣♦♣♦♣♦♣--BEIN SPORT JUVENTUS--♣♦♣♦♣♦♣ (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Arabia",
@@ -40808,12 +41030,6 @@
   {
     "name": "STUDIO UNIVERSAL (1)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Arabia",
-    "logo": ""
-  },
-  {
-    "name": "SYFY (1)",
-    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Arabia",
     "logo": ""
   },
@@ -41532,6 +41748,12 @@
     "logo": ""
   },
   {
+    "name": "AMC (1)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Balkans",
+    "logo": ""
+  },
+  {
     "name": "ANIMAL PLANET (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Balkans",
@@ -42102,6 +42324,12 @@
     "logo": ""
   },
   {
+    "name": "AF: NOLLYWOOD (1)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
     "name": "AMAZON PRIME 1 HD (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
@@ -42498,12 +42726,6 @@
     "logo": ""
   },
   {
-    "name": "C8 HD (1)",
-    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "France",
-    "logo": ""
-  },
-  {
     "name": "CANAL DECALE HD (1)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
@@ -42548,6 +42770,12 @@
   {
     "name": "CANAL SPORT (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
+    "name": "CANAL SPORT HD (1)",
+    "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
     "logo": ""
   },
@@ -42716,6 +42944,12 @@
   {
     "name": "COMEDIE (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
+    "name": "CRIME DISTRICT (1)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
     "logo": ""
   },
@@ -43446,6 +43680,18 @@
     "logo": ""
   },
   {
+    "name": "RFM TV HD (1)",
+    "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
+    "name": "RFM TV SD (1)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
     "name": "RMC SPORT 1 (1)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
@@ -43572,6 +43818,12 @@
     "logo": ""
   },
   {
+    "name": "RMC SPORT LIVE 10 HD (1)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
     "name": "RMC SPORT LIVE 10 HD (BACKUP) (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
@@ -43614,6 +43866,30 @@
     "logo": ""
   },
   {
+    "name": "RMC SPORT LIVE 5 HD (1)",
+    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
+    "name": "RMC SPORT LIVE 5 HD (BACKUP) (1)",
+    "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
+    "name": "RMC SPORT LIVE 6 HD (1)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
+    "name": "RMC SPORT LIVE 6 HD (BACKUP) (1)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "France",
+    "logo": ""
+  },
+  {
     "name": "RMC SPORT LIVE 7 HD (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
@@ -43628,12 +43904,6 @@
   {
     "name": "RMC SPORT LIVE 8 HD (1)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "France",
-    "logo": ""
-  },
-  {
-    "name": "RMC SPORT LIVE 9 HD (1)",
-    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
     "logo": ""
   },
@@ -43676,12 +43946,6 @@
   {
     "name": "SERIE CLUB (1)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "France",
-    "logo": ""
-  },
-  {
-    "name": "SPORT EN FRANCE (1)",
-    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "France",
     "logo": ""
   },
@@ -43914,6 +44178,12 @@
     "logo": ""
   },
   {
+    "name": "CANAL HD (1)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Poland",
+    "logo": ""
+  },
+  {
     "name": "CANAL NOW (1)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Poland",
@@ -43944,6 +44214,12 @@
     "logo": ""
   },
   {
+    "name": "CANAL SPORT 3 HD (1)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Poland",
+    "logo": ""
+  },
+  {
     "name": "CANAL SPORT 4 HD (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Poland",
@@ -43958,6 +44234,18 @@
   {
     "name": "CANAL+ SPORT (1)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Poland",
+    "logo": ""
+  },
+  {
+    "name": "CANAL+ SPORT 2 (1)",
+    "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Poland",
+    "logo": ""
+  },
+  {
+    "name": "CANAL+ SPORT 3 (1)",
+    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Poland",
     "logo": ""
   },
@@ -44232,12 +44520,6 @@
     "logo": ""
   },
   {
-    "name": "ELEVEN SPORTS 2 HD (1)",
-    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Poland",
-    "logo": ""
-  },
-  {
     "name": "ELEVEN SPORTS 3 (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Poland",
@@ -44252,12 +44534,6 @@
   {
     "name": "ELEVEN SPORTS 4 (1)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Poland",
-    "logo": ""
-  },
-  {
-    "name": "ELEVEN SPORTS 4 HD (1)",
-    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Poland",
     "logo": ""
   },
@@ -44592,12 +44868,6 @@
     "logo": ""
   },
   {
-    "name": "POLSAT NEWS HD (1)",
-    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Poland",
-    "logo": ""
-  },
-  {
     "name": "POLSAT PLAY HD (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Poland",
@@ -44726,12 +44996,6 @@
   {
     "name": "POLSAT VIASAT NATURE HD (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Poland",
-    "logo": ""
-  },
-  {
-    "name": "PULS 2 (1)",
-    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Poland",
     "logo": ""
   },
@@ -45044,12 +45308,6 @@
   {
     "name": "AXN HD (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Portugal",
-    "logo": ""
-  },
-  {
-    "name": "AXN MOVIES HD (1)",
-    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Portugal",
     "logo": ""
   },
@@ -45678,6 +45936,12 @@
     "logo": ""
   },
   {
+    "name": "SPORT TV NBA HD (1)",
+    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Portugal",
+    "logo": ""
+  },
+  {
     "name": "SPORT TV NBA HD (BACKUP) (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Portugal",
@@ -45876,6 +46140,12 @@
     "logo": ""
   },
   {
+    "name": "BOLLYWOOD FILM (1)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Romania",
+    "logo": ""
+  },
+  {
     "name": "BOLLYWOOD TV (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Romania",
@@ -45902,6 +46172,12 @@
   {
     "name": "CBS REALITY (1)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Romania",
+    "logo": ""
+  },
+  {
+    "name": "CINEMARATON HD (1)",
+    "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Romania",
     "logo": ""
   },
@@ -47760,6 +48036,12 @@
     "logo": ""
   },
   {
+    "name": "CANAL DECASA (1)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Spain",
+    "logo": ""
+  },
+  {
     "name": "CANAL ODISEA (1)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Spain",
@@ -48264,6 +48546,12 @@
     "logo": ""
   },
   {
+    "name": "TOROS TV (1)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Spain",
+    "logo": ""
+  },
+  {
     "name": "TOROS TV HD (1)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Spain",
@@ -48302,6 +48590,12 @@
   {
     "name": "VIAJAR HD (1)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Spain",
+    "logo": ""
+  },
+  {
+    "name": "XTRM FULL HD (1)",
+    "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Spain",
     "logo": ""
   },
@@ -51396,12 +51690,6 @@
     "logo": ""
   },
   {
-    "name": "S SPORT+3 MAC SAATI (1)",
-    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
-    "group": "Turkey",
-    "logo": ""
-  },
-  {
     "name": "S SPORT+4 MAC SAATI (1)",
     "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Turkey",
@@ -51732,6 +52020,12 @@
     "logo": ""
   },
   {
+    "name": "TABII SPOR 1 4K (1)",
+    "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Turkey",
+    "logo": ""
+  },
+  {
     "name": "TABII SPOR 1 720P (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Turkey",
@@ -51788,6 +52082,12 @@
   {
     "name": "TABII SPOR 5 UHD (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "Turkey",
+    "logo": ""
+  },
+  {
+    "name": "TABII SPOR 6 HD (1)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "Turkey",
     "logo": ""
   },
@@ -52794,6 +53094,12 @@
     "logo": ""
   },
   {
+    "name": "CARTOON NETWORK HD (1)",
+    "url": "https://vavoo.to/live2/play/1.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "United Kingdom",
+    "logo": ""
+  },
+  {
     "name": "CARTOONITO (1)",
     "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "United Kingdom",
@@ -52824,8 +53130,20 @@
     "logo": ""
   },
   {
+    "name": "CBS JUSTICE (1)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "United Kingdom",
+    "logo": ""
+  },
+  {
     "name": "CBS REALITY (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "United Kingdom",
+    "logo": ""
+  },
+  {
+    "name": "CBS REALITY+1 (1)",
+    "url": "https://vavoo.to/live2/play.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "United Kingdom",
     "logo": ""
   },
@@ -52850,6 +53168,12 @@
   {
     "name": "CHANNEL 4+1 (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "United Kingdom",
+    "logo": ""
+  },
+  {
+    "name": "CHANNEL 44 (1)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "United Kingdom",
     "logo": ""
   },
@@ -53144,6 +53468,12 @@
   {
     "name": "FOODXP (1)",
     "url": "https://vavoo.to/live2/play/2.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "United Kingdom",
+    "logo": ""
+  },
+  {
+    "name": "FREE SPORTS HD (1)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "United Kingdom",
     "logo": ""
   },
@@ -53450,6 +53780,18 @@
   {
     "name": "KIDS (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "United Kingdom",
+    "logo": ""
+  },
+  {
+    "name": "KISS (1)",
+    "url": "https://vavoo.to/live2/play/4.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "United Kingdom",
+    "logo": ""
+  },
+  {
+    "name": "LIVE 360 (1)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "United Kingdom",
     "logo": ""
   },
@@ -54038,6 +54380,12 @@
   {
     "name": "SKY SPORTS NEWS HD (1)",
     "url": "https://vavoo.to/live2/play/3.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
+    "group": "United Kingdom",
+    "logo": ""
+  },
+  {
+    "name": "SKY SPORTS NFL (1)",
+    "url": "https://vavoo.to/live2/play/.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTk4",
     "group": "United Kingdom",
     "logo": ""
   },
