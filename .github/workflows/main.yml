@@ -2,7 +2,7 @@ name: Fetch VAVOO Data and Save to GitHub
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Her gün gece yarısı çalışır
+    - cron:   # Her gün gece yarısı çalışır
   workflow_dispatch:  # Manuel çalıştırma için
 
 jobs:
