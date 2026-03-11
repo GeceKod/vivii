@@ -89,13 +89,21 @@ def main() -> int:
     summary = {"generated": [], "skipped": [], "failed": []}
     failures = 0
 
-    for channels_file in resolve_channel_files(args.channels_dir, args.coverage_file):
+    channel_files = resolve_channel_files(args.channels_dir, args.coverage_file)
+    total_files = len(channel_files)
+
+    for index, channels_file in enumerate(channel_files, start=1):
         channel_count = count_channels(channels_file)
         output_file = args.output_dir / channels_file.name
         if channel_count == 0:
             summary["skipped"].append({"country": channels_file.stem, "reason": "no_channels"})
+            print(f"[{index}/{total_files}] Skipping {channels_file.stem}: no channels", flush=True)
             continue
 
+        print(
+            f"[{index}/{total_files}] Generating {channels_file.stem}.xml from {channel_count} matched channels...",
+            flush=True,
+        )
         result = run_grab(args.epg_repo, channels_file.resolve(), output_file.resolve(), args.max_connections)
         if result.returncode == 0 and output_file.exists():
             summary["generated"].append(
@@ -105,6 +113,7 @@ def main() -> int:
                     "output": str(output_file),
                 }
             )
+            print(f"[{index}/{total_files}] Completed {channels_file.stem}.xml", flush=True)
             continue
 
         failures += 1
@@ -117,6 +126,7 @@ def main() -> int:
                 "stderr_tail": "\n".join(result.stderr.splitlines()[-20:]),
             }
         )
+        print(f"[{index}/{total_files}] Failed {channels_file.stem}.xml with exit code {result.returncode}", flush=True)
 
     if args.summary_file is not None:
         args.summary_file.parent.mkdir(parents=True, exist_ok=True)

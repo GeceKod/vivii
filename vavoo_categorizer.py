@@ -28,6 +28,14 @@ DEFAULT_REPORT_DIR = ROOT / "output" / "reports"
 DEFAULT_OVERRIDE_DIR = ROOT / "config" / "manual_overrides"
 DEFAULT_EPG_DIR = ROOT / "output" / "epg"
 
+
+def path_from_root(path: Path) -> str:
+    resolved = path.resolve() if path.is_absolute() else (ROOT / path).resolve()
+    try:
+        return str(resolved.relative_to(ROOT))
+    except ValueError:
+        return str(resolved)
+
 IPTV_ORG_CHANNELS_URL = "https://iptv-org.github.io/api/channels.json"
 IPTV_ORG_CATEGORIES_URL = "https://iptv-org.github.io/api/categories.json"
 IPTV_ORG_COUNTRIES_URL = "https://iptv-org.github.io/api/countries.json"
@@ -1141,13 +1149,13 @@ def write_epg_files(records: list[dict], epg_dir: Path, guide_index: dict[str, l
                 "unique_tvg_ids": str(len(unique_channels)),
                 "channels_with_epg": str(channels_with_epg),
                 "guide_rows": str(len(guide_rows)),
-                "channels_xml": str(channels_path.relative_to(ROOT)),
-                "expected_xmltv_output": str((public_dir / f"{safe_file_fragment(output_group)}.xml").relative_to(ROOT)),
+                "channels_xml": path_from_root(channels_path),
+                "expected_xmltv_output": path_from_root(public_dir / f"{safe_file_fragment(output_group)}.xml"),
             }
         )
         index_payload[output_group] = {
-            "channels_xml": str(channels_path.relative_to(ROOT)),
-            "expected_xmltv_output": str((public_dir / f"{safe_file_fragment(output_group)}.xml").relative_to(ROOT)),
+            "channels_xml": path_from_root(channels_path),
+            "expected_xmltv_output": path_from_root(public_dir / f"{safe_file_fragment(output_group)}.xml"),
             "unique_tvg_ids": len(unique_channels),
             "channels_with_epg": channels_with_epg,
             "guide_rows": len(guide_rows),
