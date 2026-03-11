@@ -1,0 +1,108 @@
+name: Publish Playlists
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: vavoo-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Compute GitHub Pages URL
+        id: pages
+        shell: bash
+        run: |
+          REPO_NAME="${GITHUB_REPOSITORY#*/}"
+          OWNER="${GITHUB_REPOSITORY_OWNER}"
+          if [[ "$REPO_NAME" == "${OWNER}.github.io" ]]; then
+            echo "url=https://${OWNER}.github.io" >> "$GITHUB_OUTPUT"
+          else
+            echo "url=https://${OWNER}.github.io/${REPO_NAME}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Generate playlists, logos and EPG channel inputs
+        run: |
+          python ./vavoo_categorizer.py --refresh-db
+
+      - name: Clone iptv-org/epg
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git .cache/iptv-org-epg
+
+      - name: Install iptv-org/epg dependencies
+        working-directory: .cache/iptv-org-epg
+        run: |
+          npm ci
+
+      - name: Generate per-country XMLTV files
+        run: |
+          python ./build_iptv_epg.py \
+            --epg-repo ./.cache/iptv-org-epg \
+            --channels-dir ./output/epg/channels \
+            --output-dir ./output/epg/public \
+            --coverage-file ./output/epg/coverage.csv \
+            --summary-file ./output/epg/grab-summary.json
+
+      - name: Regenerate playlists with published EPG URLs
+        run: |
+          python ./vavoo_categorizer.py \
+            --output-dir ./output/country_m3u8 \
+            --report-dir ./output/reports \
+            --epg-dir ./output/epg \
+            --epg-existing-dir ./output/epg/public \
+            --epg-base-url "${{ steps.pages.outputs.url }}/epg"
+
+      - name: Build GitHub Pages site
+        run: |
+          python ./build_pages_site.py \
+            --site-dir ./site \
+            --playlists-dir ./output/country_m3u8 \
+            --epg-dir ./output/epg/public \
+            --reports-dir ./output/reports \
+            --coverage-file ./output/epg/coverage.csv \
+            --pages-url "${{ steps.pages.outputs.url }}" \
+            --repo-url "${{ github.server_url }}/${{ github.repository }}"
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./site
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
