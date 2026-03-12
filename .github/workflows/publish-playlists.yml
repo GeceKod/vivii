@@ -84,6 +84,7 @@ jobs:
             --epg-dir ./output/epg/public \
             --reports-dir ./output/reports \
             --coverage-file ./output/epg/coverage.csv \
+            --grab-summary-file ./output/epg/grab-summary.json \
             --pages-url "${{ steps.pages.outputs.url }}" \
             --repo-url "${{ github.server_url }}/${{ github.repository }}"
 

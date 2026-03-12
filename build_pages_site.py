@@ -20,6 +20,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--epg-dir", type=Path, required=True, help="Directory containing generated .xml EPG files.")
     parser.add_argument("--reports-dir", type=Path, required=True, help="Directory containing CSV/JSON reports.")
     parser.add_argument("--coverage-file", type=Path, required=True, help="EPG coverage.csv file.")
+    parser.add_argument("--grab-summary-file", type=Path, default=None, help="Optional EPG generation summary JSON.")
     parser.add_argument("--pages-url", default="", help="Published GitHub Pages base URL.")
     parser.add_argument("--repo-url", default="", help="Repository URL for the index page.")
     return parser.parse_args()
@@ -45,6 +46,7 @@ def read_coverage(coverage_file: Path) -> list[dict[str, str]]:
 def build_index_html(
     playlists: list[Path],
     epg_files: list[Path],
+    report_files: list[Path],
     coverage_rows: list[dict[str, str]],
     pages_url: str,
     repo_url: str,
@@ -56,6 +58,10 @@ def build_index_html(
     epg_items = "\n".join(
         f'<li><a href="epg/{html.escape(path.name)}">{html.escape(path.name)}</a></li>'
         for path in epg_files[:150]
+    )
+    report_items = "\n".join(
+        f'<li><a href="reports/{html.escape(path.name)}">{html.escape(path.name)}</a></li>'
+        for path in report_files
     )
     coverage_rows_html = "\n".join(
         "<tr><td>{group}</td><td>{entries}</td><td>{channels}</td><td>{guides}</td></tr>".format(
@@ -167,6 +173,11 @@ def build_index_html(
           </tbody>
         </table>
       </section>
+      <section class="card">
+        <h2>Reports</h2>
+        <p>Generation summaries and unresolved channel reports are published under <code>/reports/</code>.</p>
+        <ul>{report_items}</ul>
+      </section>
     </div>
   </main>
 </body>
@@ -184,20 +195,28 @@ def main() -> int:
     epg_files = copy_tree(args.epg_dir, args.site_dir / "epg", "*.xml")
     reports_dst = args.site_dir / "reports"
     reports_dst.mkdir(parents=True, exist_ok=True)
+    report_files = []
     for src_name in ["summary.json", "channel_report.csv", "unresolved_channels.csv"]:
         src = args.reports_dir / src_name
         if src.exists():
-            shutil.copy2(src, reports_dst / src.name)
+            dst = reports_dst / src.name
+            shutil.copy2(src, dst)
+            report_files.append(dst)
+    if args.grab_summary_file is not None and args.grab_summary_file.exists():
+        dst = reports_dst / args.grab_summary_file.name
+        shutil.copy2(args.grab_summary_file, dst)
+        report_files.append(dst)
     shutil.copy2(args.coverage_file, args.site_dir / "epg" / "coverage.csv")
 
     coverage_rows = read_coverage(args.coverage_file)
-    index_html = build_index_html(playlists, epg_files, coverage_rows, args.pages_url, args.repo_url)
+    index_html = build_index_html(playlists, epg_files, report_files, coverage_rows, args.pages_url, args.repo_url)
     (args.site_dir / "index.html").write_text(index_html, encoding="utf-8")
     (args.site_dir / ".nojekyll").write_text("", encoding="utf-8")
 
     manifest = {
         "playlists": [path.name for path in playlists],
         "epg": [path.name for path in epg_files],
+        "reports": [path.name for path in report_files],
         "coverage": coverage_rows,
         "pages_url": args.pages_url,
         "repo_url": args.repo_url,
